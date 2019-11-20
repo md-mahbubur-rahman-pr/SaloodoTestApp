@@ -25,7 +25,7 @@ Doxygen
 
 Graphviz
 
-Intallation Process/Steps
+Installation Process/Steps
 -----------------------------------
 Here I used https://api-platform.com/
 
