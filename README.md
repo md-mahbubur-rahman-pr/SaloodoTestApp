@@ -1,4 +1,4 @@
-# SLDTestApp
+# SaloodoTestApp
 
 Here I have used followings
 ----------------------------------
@@ -20,7 +20,7 @@ Testing Framework:
 Codeception
 
 Documentation with Diagrams:
--------------
+-----------------------------
 Doxygen 
 
 Graphviz
