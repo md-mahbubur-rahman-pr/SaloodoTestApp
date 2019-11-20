@@ -1,0 +1,24 @@
+actor: ApiTester
+modules:
+    enabled:
+        - Db:
+           dsn: '%DATABASE_URL%'
+           user: 'admin'
+           password: 'admin'
+           dump: 'tests/_data/dump.sql'
+           populate: true
+           cleanup: false
+           initial_queries:
+               - 'DROP DATABASE IF EXISTS test_product_test;'
+               - 'CREATE DATABASE IF NOT EXISTS test_product_test;'
+               - 'USE test_product_test;'
+        - Symfony:
+            app_path: src
+            environment: test
+        - REST:
+            url: /
+            depends: Symfony
+            part: Json
+        - Doctrine2:
+            depends: Symfony
+            cleanup: false

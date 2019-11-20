@@ -1,0 +1,594 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#a34db4a7de22e97210c79b5e59cb8e5b0"><param name="Name" value="$_SERVER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#a34db4a7de22e97210c79b5e59cb8e5b0"><param name="Name" value="bootstrap.php"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#a4313cd20e24edf712de3a52463e8522d"><param name="Name" value="$_SERVER"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#a4313cd20e24edf712de3a52463e8522d"><param name="Name" value="bootstrap.php"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#a29246f1020c32c942ff74b154b7e2204"><param name="Name" value="$_SERVER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#af205539958f00c3a75fb55eb31e22096"><param name="Name" value="$discountAmount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#aa611bcce6c58570cc957c54913a09ca4"><param name="Name" value="$discountType"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a8d376199cc641e3e7af6e1a0d5c736d9"><param name="Name" value="$enabled"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d20/index_8php.html#a9bf422b41de5ae675f0816fe2bb56154"><param name="Name" value="$kernel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles.html#abf17cb2dba2ed17cb28aa5f37deb5293"><param name="Name" value="$message"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac0e50eded62970e237e638c1ca378b09"><param name="Name" value="$plainPassword"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d20/index_8php.html#abb35c8495a232b510389fa6d7b15d38a"><param name="Name" value="$request"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d20/index_8php.html#af4b6fb1bbc77ccc05f10da3b16935b99"><param name="Name" value="$response"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a24a565772e407805783bcc46deeafeb3"><param name="Name" value="$roles"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a7b0f59bb9462d23556018206e5e543ee"><param name="Name" value="$sellPrice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#a00ae4fcafb1145f5e968bdf920f83e2e"><param name="Name" value="$token"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a095c5d389db211932136b53f25f39685"><param name="Name" value="__construct"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a095c5d389db211932136b53f25f39685"><param name="Name" value="App::Entity::Product"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a095c5d389db211932136b53f25f39685"><param name="Name" value="__construct"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a095c5d389db211932136b53f25f39685"><param name="Name" value="App::Entity::Users"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/dc0/class_app_1_1_repository_1_1_product_repository.html#a38ea33dde11163765f358f5f10a3bc03"><param name="Name" value="__construct"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/dc0/class_app_1_1_repository_1_1_product_repository.html#a38ea33dde11163765f358f5f10a3bc03"><param name="Name" value="App::Repository::ProductRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html#aadca7edd263e228921a1860bb6b9c252"><param name="Name" value="__construct"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#aafb27dda17c3e44c5fe8836f46fb3434"><param name="Name" value="_before"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#aafb27dda17c3e44c5fe8836f46fb3434"><param name="Name" value="App::Tests::AuthCest"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#aafb27dda17c3e44c5fe8836f46fb3434"><param name="Name" value="_before"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a25b8a6ec2a79f06522f62fe2e94253c5"><param name="Name" value="addRole"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d33/namespace_app.html"><param name="Name" value="App"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d57/namespace_app_1_1_controller.html"><param name="Name" value="App::Controller"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html"><param name="Name" value="App::Controller::UserAuthController"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html"><param name="Name" value="App::Controller::UserAuthController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html#a084c0f5299b2dcd5dc09217a4cbee3a9"><param name="Name" value="authentication"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html#a48ca544e8b3f9ff0573ec2a2b55129ac"><param name="Name" value="App::Controller::UserAuthController"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6d/class_app_1_1_controller_1_1_users_controller.html"><param name="Name" value="App::Controller::UsersController"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6d/class_app_1_1_controller_1_1_users_controller.html#a9496230b44e392702289711e7c2f2e8a"><param name="Name" value="App::Controller::UsersController"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/df5/namespace_app_1_1_entity.html"><param name="Name" value="App::Entity"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#adc62da6cfe1064e3c6733ed9f162754e"><param name="Name" value="CreatedAtLifeCycleCallbackTrait"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a2b386d6d0a66d69274ec07f4902dd900"><param name="Name" value="getCreatedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#aea6550a1dad7e4125ad123477dbbc392"><param name="Name" value="getUpdatedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#ae5d02a32ae53c5af99a02a55f666bb7e"><param name="Name" value="setUpdatedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#af00445d724d37585eb60504575c6f6c4"><param name="Name" value="updateCreatedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a057bdc1b3f04afa0ab4ab52a973997aa"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a4c705c0f9b5c8f747a715940ee197293"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#af205539958f00c3a75fb55eb31e22096"><param name="Name" value="$discountAmount"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#aa611bcce6c58570cc957c54913a09ca4"><param name="Name" value="$discountType"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a7b0f59bb9462d23556018206e5e543ee"><param name="Name" value="$sellPrice"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a095c5d389db211932136b53f25f39685"><param name="Name" value="__construct"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a2e7bb35c71bf1824456ceb944cb7a845"><param name="Name" value="getDescription"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a22c176225c24f379b4279083d35e96c6"><param name="Name" value="getDiscountAmount"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a12251d0c022e9e21c137a105ff683f13"><param name="Name" value="getId"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a38146d2beb1dd6dfd0f2a5886e18a538"><param name="Name" value="getPrice"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#aefd60c3719a9269508214e2a2b04bf99"><param name="Name" value="getSellPrice"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a95e859a4588a39a1824b717378a84c29"><param name="Name" value="getTitle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#acee77db44e361e2773e2734033f2a1c5"><param name="Name" value="setDescription"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a62abb1071e8609fe49030497cb5f0085"><param name="Name" value="setDiscountAmount"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a2e232712bdbc759793fab2cf08506c25"><param name="Name" value="setPrice"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a754ef3032cc3ffb25ad2d1a13720fc29"><param name="Name" value="App::Entity::Product"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a744700970e1ca790b37409809c097f37"><param name="Name" value="DeletedAtTrait"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a0ee5bfa57a5385baa93bc7c2ba3cbb09"><param name="Name" value="getDeletedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a4c48cf9cbab3f5be7c7cc83da7e03f3c"><param name="Name" value="getId"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a9cf8807d042f91fea88bda37037fdedd"><param name="Name" value="getMember"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ab61876a6bd66112c777c0556812a8cb4"><param name="Name" value="IdTrait"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#acba88d47ee0906f3d19deae554e8ca31"><param name="Name" value="setDeletedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ad22b810d4b9567880d9877337d0f1d72"><param name="Name" value="setMember"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ae5f17fed2df53235568612c834a08e14"><param name="Name" value="TitleTrait"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a89c85f32816a86ce70e3617cf39813a7"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a8d376199cc641e3e7af6e1a0d5c736d9"><param name="Name" value="$enabled"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac0e50eded62970e237e638c1ca378b09"><param name="Name" value="$plainPassword"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a24a565772e407805783bcc46deeafeb3"><param name="Name" value="$roles"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a095c5d389db211932136b53f25f39685"><param name="Name" value="__construct"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a25b8a6ec2a79f06522f62fe2e94253c5"><param name="Name" value="addRole"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac565b8c00fe93ce673f8237849f072a6"><param name="Name" value="eraseCredentials"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aeafdb95ad7b97a5ff68ac785e8c243e5"><param name="Name" value="getBirthdate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a02a01849f28e2535e888ae4ec87b20f2"><param name="Name" value="getEmail"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a42c9621713b6dcdfb9edd5a7630b6d93"><param name="Name" value="getFirstname"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5d606fdf02d35b79b74b91a88c09000f"><param name="Name" value="getLastname"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aea96b0b57905ed19f1f79712b61fb091"><param name="Name" value="getMobileNumber"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a04e0957baeb7acde9c0c86556da2d43f"><param name="Name" value="getPassword"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aa676cae5ee8d7fb6862a8724adc2660d"><param name="Name" value="getRoles"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a1dfe56d2c965d451a135f3f3910a8b8d"><param name="Name" value="getSalt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a81b37a3c9d639574e394f80c1138c75e"><param name="Name" value="getUsername"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a53a5bca218d3879ec04ebc1cb2c2bb56"><param name="Name" value="hasRole"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#abd3249746fd38206c1cbe6c0c0a98043"><param name="Name" value="removeRole"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a6c1b6c33c1a5e86504b90dbec6edaf22"><param name="Name" value="setAdmin"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a2f3e06f15bd3cfa210473c2e0831b97c"><param name="Name" value="setBirthdate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5ef76eef42d2624386442eeb636d338c"><param name="Name" value="setEmail"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac0d3c14a97920f5b44aa3259477a0368"><param name="Name" value="setFirstname"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a7670b9079201ea16393d26367f4af339"><param name="Name" value="setLastname"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5583a257b7493b73eb6d965ef4a8d057"><param name="Name" value="setMobileNumber"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a3e35c8d3dbb2c513c618a664389e0926"><param name="Name" value="setPassword"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aa3236c9c6688d04df16ea0ab3065530e"><param name="Name" value="setRoles"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac359b701a2ccaff746dd480f03314244"><param name="Name" value="setUsername"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5211cd44f5bae2c9fe22316ac62b8ecc"><param name="Name" value="App::Entity::Users"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/dcc/namespace_app_1_1_enums.html"><param name="Name" value="App::Enums"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html"><param name="Name" value="App::Enums::BasicEnum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html"><param name="Name" value="App::Enums::BasicEnum"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html#a573bb600b466b4ac8fe33911e458f86c"><param name="Name" value="getConstants"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html"><param name="Name" value="App::Enums::BasicEnum"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html#a5ab7de74af629e3a1a0104ac665bdeb8"><param name="Name" value="isValidName"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html#aa0cd4f6a2432873cb589a9e85f65a0ed"><param name="Name" value="App::Enums::BasicEnum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html"><param name="Name" value="App::Enums::DiscountTypeEnum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html"><param name="Name" value="App::Enums::DiscountTypeEnum"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html#a624d17d6f17d6193bb2981edf7dd14e6"><param name="Name" value="FLAT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html#a0c62d1db364b92b153592989b3522f18"><param name="Name" value="App::Enums::DiscountTypeEnum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html"><param name="Name" value="App::Enums::UserRoleEnum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html"><param name="Name" value="App::Enums::UserRoleEnum"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html#a9fd0bde739ce8d8a0826a4b5d5b4a84a"><param name="Name" value="ROLE_ADMIN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html#a7b2bfb013f1c15d8d3d65f31b26ddce5"><param name="Name" value="App::Enums::UserRoleEnum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html"><param name="Name" value="App::Kernel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html"><param name="Name" value="App::Kernel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a8309831536a0535383e4d41657b54635"><param name="Name" value="configureContainer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html"><param name="Name" value="App::Kernel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a07bf0718482c124f9f0df16ddfa4329b"><param name="Name" value="configureRoutes"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html"><param name="Name" value="App::Kernel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#acce4acecbc0d0e6061ae1a844513d5fd"><param name="Name" value="getProjectDir"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a8dd304e2eccfbe88dd648389c7d4f5eb"><param name="Name" value="App::Kernel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d00/namespace_app_1_1_repository.html"><param name="Name" value="App::Repository"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/dc0/class_app_1_1_repository_1_1_product_repository.html"><param name="Name" value="App::Repository::ProductRepository"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/dc0/class_app_1_1_repository_1_1_product_repository.html#a38ea33dde11163765f358f5f10a3bc03"><param name="Name" value="App::Repository::ProductRepository"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html"><param name="Name" value="App::Repository::UsersRepository"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html"><param name="Name" value="App::Repository::UsersRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html#aadca7edd263e228921a1860bb6b9c252"><param name="Name" value="__construct"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html#a09423ffc9f178a746b6eefbf6a36697e"><param name="Name" value="App::Repository::UsersRepository"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="df/d53/namespace_app_1_1_tests.html"><param name="Name" value="App::Tests"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d7b/class_app_1_1_tests_1_1_acceptance_tester.html"><param name="Name" value="App::Tests::AcceptanceTester"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d47/class_app_1_1_tests_1_1_api_tester.html"><param name="Name" value="App::Tests::ApiTester"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html"><param name="Name" value="App::Tests::AuthCest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html"><param name="Name" value="App::Tests::AuthCest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#a00ae4fcafb1145f5e968bdf920f83e2e"><param name="Name" value="$token"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html"><param name="Name" value="App::Tests::AuthCest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#aafb27dda17c3e44c5fe8836f46fb3434"><param name="Name" value="_before"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html"><param name="Name" value="App::Tests::AuthCest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#ac726bf29510b2291d1f00aab510292e3"><param name="Name" value="createUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#a749de04de607e29c4fa0d85cde5ce73d"><param name="Name" value="App::Tests::AuthCest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="Name" value="App::Tests::CreateUserCest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="Name" value="App::Tests::CreateUserCest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#aafb27dda17c3e44c5fe8836f46fb3434"><param name="Name" value="_before"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="Name" value="App::Tests::CreateUserCest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ac726bf29510b2291d1f00aab510292e3"><param name="Name" value="createUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="Name" value="App::Tests::CreateUserCest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ab0cf40e51a0bd9973d20825b7e2300c6"><param name="Name" value="createUserWithAllInvalidInput"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="Name" value="App::Tests::CreateUserCest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#a03bdd88c719f74adbfb053eb1918a290"><param name="Name" value="createUserWithInvalidEmail"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="Name" value="App::Tests::CreateUserCest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ab5ca61130cc32416cf23397ac8b0d4d6"><param name="Name" value="createUserWithSameUserName"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="Name" value="App::Tests::CreateUserCest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#aaa13e61af3d36aa33ede64ee6b7d65e6"><param name="Name" value="createUserWithSmallPassword"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#a4354ff9d0e3f11beb27c66ff8619327d"><param name="Name" value="App::Tests::CreateUserCest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d1e/class_app_1_1_tests_1_1_functional_tester.html"><param name="Name" value="App::Tests::FunctionalTester"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d25/namespace_app_1_1_tests_1_1_helper.html"><param name="Name" value="App::Tests::Helper"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d46/class_app_1_1_tests_1_1_helper_1_1_acceptance.html"><param name="Name" value="App::Tests::Helper::Acceptance"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/dd1/class_app_1_1_tests_1_1_helper_1_1_api.html"><param name="Name" value="App::Tests::Helper::Api"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/d4f/class_app_1_1_tests_1_1_helper_1_1_functional.html"><param name="Name" value="App::Tests::Helper::Functional"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="db/d78/class_app_1_1_tests_1_1_helper_1_1_unit.html"><param name="Name" value="App::Tests::Helper::Unit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/d22/class_app_1_1_tests_1_1_unit_tester.html"><param name="Name" value="App::Tests::UnitTester"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d0d/namespace_app_1_1_validator.html"><param name="Name" value="App::Validator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="db/d3a/namespace_app_1_1_validator_1_1_constraints.html"><param name="Name" value="App::Validator::Constraints"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles.html"><param name="Name" value="App::Validator::Constraints::ValidRoles"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles.html#abf17cb2dba2ed17cb28aa5f37deb5293"><param name="Name" value="App::Validator::Constraints::ValidRoles"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator.html"><param name="Name" value="App::Validator::Constraints::ValidRolesValidator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator.html#a19da66d7ebf5f508cbdad3a2f255f107"><param name="Name" value="App::Validator::Constraints::ValidRolesValidator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html#a084c0f5299b2dcd5dc09217a4cbee3a9"><param name="Name" value="authentication"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html"><param name="Name" value="bootstrap.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#a34db4a7de22e97210c79b5e59cb8e5b0"><param name="Name" value="$_SERVER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html"><param name="Name" value="bootstrap.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#a29246f1020c32c942ff74b154b7e2204"><param name="Name" value="$_SERVER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html"><param name="Name" value="bootstrap.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#a4313cd20e24edf712de3a52463e8522d"><param name="Name" value="$_SERVER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#af82907ffd29945f58c1703adcc1c5031"><param name="Name" value="bootstrap.php"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d4a/bundles_8php.html#a22333891ecf6ec3e343b2a7c0de5f253"><param name="Name" value="bundles.php"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a8309831536a0535383e4d41657b54635"><param name="Name" value="configureContainer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a07bf0718482c124f9f0df16ddfa4329b"><param name="Name" value="configureRoutes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/dce/_created_at_life_cycle_callback_trait_8php.html"><param name="Name" value="CreatedAtLifeCycleCallbackTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/dce/_created_at_life_cycle_callback_trait_8php.html#adc62da6cfe1064e3c6733ed9f162754e"><param name="Name" value="CreatedAtLifeCycleCallbackTrait"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/dce/_created_at_life_cycle_callback_trait_8php.html"><param name="Name" value="CreatedAtLifeCycleCallbackTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/dce/_created_at_life_cycle_callback_trait_8php.html#a2b386d6d0a66d69274ec07f4902dd900"><param name="Name" value="getCreatedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/dce/_created_at_life_cycle_callback_trait_8php.html#af00445d724d37585eb60504575c6f6c4"><param name="Name" value="CreatedAtLifeCycleCallbackTrait.php"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#adc62da6cfe1064e3c6733ed9f162754e"><param name="Name" value="CreatedAtLifeCycleCallbackTrait"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#adc62da6cfe1064e3c6733ed9f162754e"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#adc62da6cfe1064e3c6733ed9f162754e"><param name="Name" value="CreatedAtLifeCycleCallbackTrait"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#ac726bf29510b2291d1f00aab510292e3"><param name="Name" value="createUser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#ac726bf29510b2291d1f00aab510292e3"><param name="Name" value="App::Tests::AuthCest"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ac726bf29510b2291d1f00aab510292e3"><param name="Name" value="createUser"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ab0cf40e51a0bd9973d20825b7e2300c6"><param name="Name" value="createUserWithAllInvalidInput"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#a03bdd88c719f74adbfb053eb1918a290"><param name="Name" value="createUserWithInvalidEmail"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ab5ca61130cc32416cf23397ac8b0d4d6"><param name="Name" value="createUserWithSameUserName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#aaa13e61af3d36aa33ede64ee6b7d65e6"><param name="Name" value="createUserWithSmallPassword"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#a4354ff9d0e3f11beb27c66ff8619327d"><param name="Name" value="createUserWithSmallUserName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d0c/_deleted_at_trait_8php.html"><param name="Name" value="DeletedAtTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d0c/_deleted_at_trait_8php.html#a744700970e1ca790b37409809c097f37"><param name="Name" value="DeletedAtTrait"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d0c/_deleted_at_trait_8php.html"><param name="Name" value="DeletedAtTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d0c/_deleted_at_trait_8php.html#a0ee5bfa57a5385baa93bc7c2ba3cbb09"><param name="Name" value="getDeletedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d0c/_deleted_at_trait_8php.html#acba88d47ee0906f3d19deae554e8ca31"><param name="Name" value="DeletedAtTrait.php"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a744700970e1ca790b37409809c097f37"><param name="Name" value="DeletedAtTrait"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a744700970e1ca790b37409809c097f37"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a744700970e1ca790b37409809c097f37"><param name="Name" value="DeletedAtTrait"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d55/bootstrap_8php.html#af82907ffd29945f58c1703adcc1c5031"><param name="Name" value="else"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac565b8c00fe93ce673f8237849f072a6"><param name="Name" value="eraseCredentials"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html#a624d17d6f17d6193bb2981edf7dd14e6"><param name="Name" value="FLAT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aeafdb95ad7b97a5ff68ac785e8c243e5"><param name="Name" value="getBirthdate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html#a573bb600b466b4ac8fe33911e458f86c"><param name="Name" value="getConstants"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a2b386d6d0a66d69274ec07f4902dd900"><param name="Name" value="getCreatedAt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a2b386d6d0a66d69274ec07f4902dd900"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a2b386d6d0a66d69274ec07f4902dd900"><param name="Name" value="getCreatedAt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a0ee5bfa57a5385baa93bc7c2ba3cbb09"><param name="Name" value="getDeletedAt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a0ee5bfa57a5385baa93bc7c2ba3cbb09"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a0ee5bfa57a5385baa93bc7c2ba3cbb09"><param name="Name" value="getDeletedAt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a2e7bb35c71bf1824456ceb944cb7a845"><param name="Name" value="getDescription"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a22c176225c24f379b4279083d35e96c6"><param name="Name" value="getDiscountAmount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a02a01849f28e2535e888ae4ec87b20f2"><param name="Name" value="getEmail"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a42c9621713b6dcdfb9edd5a7630b6d93"><param name="Name" value="getFirstname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a12251d0c022e9e21c137a105ff683f13"><param name="Name" value="getId"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a12251d0c022e9e21c137a105ff683f13"><param name="Name" value="App::Entity::Product"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a4c48cf9cbab3f5be7c7cc83da7e03f3c"><param name="Name" value="getId"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a4c48cf9cbab3f5be7c7cc83da7e03f3c"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a4c48cf9cbab3f5be7c7cc83da7e03f3c"><param name="Name" value="getId"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5d606fdf02d35b79b74b91a88c09000f"><param name="Name" value="getLastname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a9cf8807d042f91fea88bda37037fdedd"><param name="Name" value="getMember"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a9cf8807d042f91fea88bda37037fdedd"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a9cf8807d042f91fea88bda37037fdedd"><param name="Name" value="getMember"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aea96b0b57905ed19f1f79712b61fb091"><param name="Name" value="getMobileNumber"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a04e0957baeb7acde9c0c86556da2d43f"><param name="Name" value="getPassword"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a38146d2beb1dd6dfd0f2a5886e18a538"><param name="Name" value="getPrice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#acce4acecbc0d0e6061ae1a844513d5fd"><param name="Name" value="getProjectDir"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aa676cae5ee8d7fb6862a8724adc2660d"><param name="Name" value="getRoles"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a1dfe56d2c965d451a135f3f3910a8b8d"><param name="Name" value="getSalt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#aefd60c3719a9269508214e2a2b04bf99"><param name="Name" value="getSellPrice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a95e859a4588a39a1824b717378a84c29"><param name="Name" value="getTitle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#aea6550a1dad7e4125ad123477dbbc392"><param name="Name" value="getUpdatedAt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#aea6550a1dad7e4125ad123477dbbc392"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#aea6550a1dad7e4125ad123477dbbc392"><param name="Name" value="getUpdatedAt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a81b37a3c9d639574e394f80c1138c75e"><param name="Name" value="getUsername"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a53a5bca218d3879ec04ebc1cb2c2bb56"><param name="Name" value="hasRole"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dd5/_id_trait_8php.html"><param name="Name" value="IdTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dd5/_id_trait_8php.html#a4c48cf9cbab3f5be7c7cc83da7e03f3c"><param name="Name" value="getId"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dd5/_id_trait_8php.html#ab61876a6bd66112c777c0556812a8cb4"><param name="Name" value="IdTrait.php"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ab61876a6bd66112c777c0556812a8cb4"><param name="Name" value="IdTrait"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ab61876a6bd66112c777c0556812a8cb4"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ab61876a6bd66112c777c0556812a8cb4"><param name="Name" value="IdTrait"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d20/index_8php.html"><param name="Name" value="index.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d20/index_8php.html#a9bf422b41de5ae675f0816fe2bb56154"><param name="Name" value="$kernel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d20/index_8php.html"><param name="Name" value="index.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d20/index_8php.html#abb35c8495a232b510389fa6d7b15d38a"><param name="Name" value="$request"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d20/index_8php.html#af4b6fb1bbc77ccc05f10da3b16935b99"><param name="Name" value="index.php"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6d/class_app_1_1_controller_1_1_users_controller.html#a9496230b44e392702289711e7c2f2e8a"><param name="Name" value="index"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html#a5ab7de74af629e3a1a0104ac665bdeb8"><param name="Name" value="isValidName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html#aa0cd4f6a2432873cb589a9e85f65a0ed"><param name="Name" value="isValidValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html#a09423ffc9f178a746b6eefbf6a36697e"><param name="Name" value="loadUserByUsername"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html#a0c62d1db364b92b153592989b3522f18"><param name="Name" value="PERC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html#a48ca544e8b3f9ff0573ec2a2b55129ac"><param name="Name" value="register"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a8dd304e2eccfbe88dd648389c7d4f5eb"><param name="Name" value="registerBundles"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#abd3249746fd38206c1cbe6c0c0a98043"><param name="Name" value="removeRole"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d4a/bundles_8php.html#a22333891ecf6ec3e343b2a7c0de5f253"><param name="Name" value="return"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html#a9fd0bde739ce8d8a0826a4b5d5b4a84a"><param name="Name" value="ROLE_ADMIN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html#a7b2bfb013f1c15d8d3d65f31b26ddce5"><param name="Name" value="ROLE_USER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a6c1b6c33c1a5e86504b90dbec6edaf22"><param name="Name" value="setAdmin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a2f3e06f15bd3cfa210473c2e0831b97c"><param name="Name" value="setBirthdate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#acba88d47ee0906f3d19deae554e8ca31"><param name="Name" value="setDeletedAt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#acba88d47ee0906f3d19deae554e8ca31"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#acba88d47ee0906f3d19deae554e8ca31"><param name="Name" value="setDeletedAt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#acee77db44e361e2773e2734033f2a1c5"><param name="Name" value="setDescription"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a62abb1071e8609fe49030497cb5f0085"><param name="Name" value="setDiscountAmount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5ef76eef42d2624386442eeb636d338c"><param name="Name" value="setEmail"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac0d3c14a97920f5b44aa3259477a0368"><param name="Name" value="setFirstname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a7670b9079201ea16393d26367f4af339"><param name="Name" value="setLastname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ad22b810d4b9567880d9877337d0f1d72"><param name="Name" value="setMember"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ad22b810d4b9567880d9877337d0f1d72"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ad22b810d4b9567880d9877337d0f1d72"><param name="Name" value="setMember"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5583a257b7493b73eb6d965ef4a8d057"><param name="Name" value="setMobileNumber"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a3e35c8d3dbb2c513c618a664389e0926"><param name="Name" value="setPassword"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a2e232712bdbc759793fab2cf08506c25"><param name="Name" value="setPrice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aa3236c9c6688d04df16ea0ab3065530e"><param name="Name" value="setRoles"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a754ef3032cc3ffb25ad2d1a13720fc29"><param name="Name" value="setTitle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#ae5d02a32ae53c5af99a02a55f666bb7e"><param name="Name" value="setUpdatedAt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#ae5d02a32ae53c5af99a02a55f666bb7e"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#ae5d02a32ae53c5af99a02a55f666bb7e"><param name="Name" value="setUpdatedAt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac359b701a2ccaff746dd480f03314244"><param name="Name" value="setUsername"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/dea/_title_trait_8php.html#ae5f17fed2df53235568612c834a08e14"><param name="Name" value="TitleTrait.php"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ae5f17fed2df53235568612c834a08e14"><param name="Name" value="TitleTrait"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ae5f17fed2df53235568612c834a08e14"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#ae5f17fed2df53235568612c834a08e14"><param name="Name" value="TitleTrait"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#a749de04de607e29c4fa0d85cde5ce73d"><param name="Name" value="tryToLogin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#af00445d724d37585eb60504575c6f6c4"><param name="Name" value="updateCreatedAt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#af00445d724d37585eb60504575c6f6c4"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#af00445d724d37585eb60504575c6f6c4"><param name="Name" value="updateCreatedAt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html#aea6550a1dad7e4125ad123477dbbc392"><param name="Name" value="getUpdatedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html#ae5d02a32ae53c5af99a02a55f666bb7e"><param name="Name" value="setUpdatedAt"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html#a057bdc1b3f04afa0ab4ab52a973997aa"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html#a4c705c0f9b5c8f747a715940ee197293"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait.php"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a057bdc1b3f04afa0ab4ab52a973997aa"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a057bdc1b3f04afa0ab4ab52a973997aa"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a057bdc1b3f04afa0ab4ab52a973997aa"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a4c705c0f9b5c8f747a715940ee197293"><param name="Name" value="updatedTimestamps"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a4c705c0f9b5c8f747a715940ee197293"><param name="Name" value="App::Entity::LifeCycleCallbacks"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html#a4c705c0f9b5c8f747a715940ee197293"><param name="Name" value="updatedTimestamps"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5211cd44f5bae2c9fe22316ac62b8ecc"><param name="Name" value="updatePassword"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="df/d3f/_user_trait_8php.html"><param name="Name" value="UserTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="df/d3f/_user_trait_8php.html#a9cf8807d042f91fea88bda37037fdedd"><param name="Name" value="getMember"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="df/d3f/_user_trait_8php.html"><param name="Name" value="UserTrait.php"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="df/d3f/_user_trait_8php.html#ad22b810d4b9567880d9877337d0f1d72"><param name="Name" value="setMember"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="df/d3f/_user_trait_8php.html#a89c85f32816a86ce70e3617cf39813a7"><param name="Name" value="UserTrait.php"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a89c85f32816a86ce70e3617cf39813a7"><param name="Name" value="UserTrait"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a89c85f32816a86ce70e3617cf39813a7"><param name="Name" value="App::Entity::Traits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html#a89c85f32816a86ce70e3617cf39813a7"><param name="Name" value="UserTrait"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator.html#a19da66d7ebf5f508cbdad3a2f255f107"><param name="Name" value="validate"></OBJECT>
+</UL>
+</BODY>
+</HTML>

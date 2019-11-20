@@ -1,0 +1,22 @@
+api_platform:
+    resource: .
+    type: api_platform
+    prefix: /
+
+
+user_auth:
+    path: "/users/auth/{provider}"
+    methods: ['POST']
+    prefix: 'users'
+    defaults:
+        _controller: 'App\Controller\UserAuthController::authentication'
+        _api_resource_class: 'App\Entity\Users'
+
+register:
+    path: "/register"
+    controller: App\Controller\UserAuthController::register
+    methods: POST|OPTIONS
+
+login:
+    path: /login
+    methods: ['POST']

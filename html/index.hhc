@@ -1,0 +1,544 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Namespaces"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace List"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="App"><param name="Local" value="dc/d33/namespace_app.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Controller"><param name="Local" value="d4/d57/namespace_app_1_1_controller.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Entity"><param name="Local" value="d3/df5/namespace_app_1_1_entity.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LifeCycleCallbacks"><param name="Local" value="d6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Traits"><param name="Local" value="d2/d0b/namespace_app_1_1_entity_1_1_traits.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Enums"><param name="Local" value="d9/dcc/namespace_app_1_1_enums.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Repository"><param name="Local" value="d8/d00/namespace_app_1_1_repository.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Tests"><param name="Local" value="df/d53/namespace_app_1_1_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Helper"><param name="Local" value="d2/d25/namespace_app_1_1_tests_1_1_helper.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Validator"><param name="Local" value="d0/d0d/namespace_app_1_1_validator.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Constraints"><param name="Local" value="db/d3a/namespace_app_1_1_validator_1_1_constraints.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace Members"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="namespacemembers_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="namespacemembers_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="App"><param name="Local" value="dc/d33/namespace_app.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Controller"><param name="Local" value="d4/d57/namespace_app_1_1_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UserAuthController"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="authentication"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html#a084c0f5299b2dcd5dc09217a4cbee3a9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="register"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html#a48ca544e8b3f9ff0573ec2a2b55129ac"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UsersController"><param name="Local" value="de/d6d/class_app_1_1_controller_1_1_users_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="index"><param name="Local" value="de/d6d/class_app_1_1_controller_1_1_users_controller.html#a9496230b44e392702289711e7c2f2e8a"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Entity"><param name="Local" value="d3/df5/namespace_app_1_1_entity.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Product"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="__construct"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a095c5d389db211932136b53f25f39685"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getDescription"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a2e7bb35c71bf1824456ceb944cb7a845"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getDiscountAmount"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a22c176225c24f379b4279083d35e96c6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getId"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a12251d0c022e9e21c137a105ff683f13"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getPrice"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a38146d2beb1dd6dfd0f2a5886e18a538"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getSellPrice"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#aefd60c3719a9269508214e2a2b04bf99"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getTitle"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a95e859a4588a39a1824b717378a84c29"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setDescription"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#acee77db44e361e2773e2734033f2a1c5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setDiscountAmount"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a62abb1071e8609fe49030497cb5f0085"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setPrice"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a2e232712bdbc759793fab2cf08506c25"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setTitle"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a754ef3032cc3ffb25ad2d1a13720fc29"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="$discountAmount"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#af205539958f00c3a75fb55eb31e22096"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="$discountType"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#aa611bcce6c58570cc957c54913a09ca4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="$sellPrice"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a7b0f59bb9462d23556018206e5e543ee"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Users"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="__construct"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a095c5d389db211932136b53f25f39685"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="addRole"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a25b8a6ec2a79f06522f62fe2e94253c5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="eraseCredentials"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac565b8c00fe93ce673f8237849f072a6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getBirthdate"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aeafdb95ad7b97a5ff68ac785e8c243e5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getEmail"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a02a01849f28e2535e888ae4ec87b20f2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getFirstname"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a42c9621713b6dcdfb9edd5a7630b6d93"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getLastname"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5d606fdf02d35b79b74b91a88c09000f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getMobileNumber"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aea96b0b57905ed19f1f79712b61fb091"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getPassword"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a04e0957baeb7acde9c0c86556da2d43f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getRoles"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aa676cae5ee8d7fb6862a8724adc2660d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getSalt"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a1dfe56d2c965d451a135f3f3910a8b8d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getUsername"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a81b37a3c9d639574e394f80c1138c75e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="hasRole"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a53a5bca218d3879ec04ebc1cb2c2bb56"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="removeRole"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#abd3249746fd38206c1cbe6c0c0a98043"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setAdmin"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a6c1b6c33c1a5e86504b90dbec6edaf22"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setBirthdate"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a2f3e06f15bd3cfa210473c2e0831b97c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setEmail"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5ef76eef42d2624386442eeb636d338c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setFirstname"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac0d3c14a97920f5b44aa3259477a0368"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setLastname"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a7670b9079201ea16393d26367f4af339"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setMobileNumber"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5583a257b7493b73eb6d965ef4a8d057"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setPassword"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a3e35c8d3dbb2c513c618a664389e0926"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setRoles"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aa3236c9c6688d04df16ea0ab3065530e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="setUsername"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac359b701a2ccaff746dd480f03314244"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="updatePassword"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5211cd44f5bae2c9fe22316ac62b8ecc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="$enabled"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a8d376199cc641e3e7af6e1a0d5c736d9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="$plainPassword"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac0e50eded62970e237e638c1ca378b09"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="$roles"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a24a565772e407805783bcc46deeafeb3"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Enums"><param name="Local" value="d9/dcc/namespace_app_1_1_enums.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BasicEnum"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DiscountTypeEnum"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FLAT"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html#a624d17d6f17d6193bb2981edf7dd14e6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PERC"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html#a0c62d1db364b92b153592989b3522f18"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UserRoleEnum"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ROLE_ADMIN"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html#a9fd0bde739ce8d8a0826a4b5d5b4a84a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ROLE_USER"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html#a7b2bfb013f1c15d8d3d65f31b26ddce5"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Repository"><param name="Local" value="d8/d00/namespace_app_1_1_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductRepository"><param name="Local" value="d4/dc0/class_app_1_1_repository_1_1_product_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="__construct"><param name="Local" value="d4/dc0/class_app_1_1_repository_1_1_product_repository.html#a38ea33dde11163765f358f5f10a3bc03"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UsersRepository"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="__construct"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html#aadca7edd263e228921a1860bb6b9c252"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="loadUserByUsername"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html#a09423ffc9f178a746b6eefbf6a36697e"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Tests"><param name="Local" value="df/d53/namespace_app_1_1_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Helper"><param name="Local" value="d2/d25/namespace_app_1_1_tests_1_1_helper.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Acceptance"><param name="Local" value="d6/d46/class_app_1_1_tests_1_1_helper_1_1_acceptance.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Api"><param name="Local" value="d4/dd1/class_app_1_1_tests_1_1_helper_1_1_api.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Functional"><param name="Local" value="d7/d4f/class_app_1_1_tests_1_1_helper_1_1_functional.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Unit"><param name="Local" value="db/d78/class_app_1_1_tests_1_1_helper_1_1_unit.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AcceptanceTester"><param name="Local" value="d1/d7b/class_app_1_1_tests_1_1_acceptance_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ApiTester"><param name="Local" value="d3/d47/class_app_1_1_tests_1_1_api_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AuthCest"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="_before"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#aafb27dda17c3e44c5fe8836f46fb3434"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="createUser"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#ac726bf29510b2291d1f00aab510292e3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="tryToLogin"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#a749de04de607e29c4fa0d85cde5ce73d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="$token"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#a00ae4fcafb1145f5e968bdf920f83e2e"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateUserCest"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="_before"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#aafb27dda17c3e44c5fe8836f46fb3434"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="createUser"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ac726bf29510b2291d1f00aab510292e3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithAllInvalidInput"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ab0cf40e51a0bd9973d20825b7e2300c6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithInvalidEmail"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#a03bdd88c719f74adbfb053eb1918a290"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithSameUserName"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ab5ca61130cc32416cf23397ac8b0d4d6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithSmallPassword"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#aaa13e61af3d36aa33ede64ee6b7d65e6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithSmallUserName"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#a4354ff9d0e3f11beb27c66ff8619327d"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FunctionalTester"><param name="Local" value="de/d1e/class_app_1_1_tests_1_1_functional_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UnitTester"><param name="Local" value="d7/d22/class_app_1_1_tests_1_1_unit_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Validator"><param name="Local" value="d0/d0d/namespace_app_1_1_validator.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Constraints"><param name="Local" value="db/d3a/namespace_app_1_1_validator_1_1_constraints.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidRoles"><param name="Local" value="d2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="$message"><param name="Local" value="d2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles.html#abf17cb2dba2ed17cb28aa5f37deb5293"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidRolesValidator"><param name="Local" value="d7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="validate"><param name="Local" value="d7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator.html#a19da66d7ebf5f508cbdad3a2f255f107"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Kernel"><param name="Local" value="d8/d42/class_app_1_1_kernel.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="configureContainer"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a8309831536a0535383e4d41657b54635"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="configureRoutes"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a07bf0718482c124f9f0df16ddfa4329b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getProjectDir"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#acce4acecbc0d0e6061ae1a844513d5fd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="registerBundles"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a8dd304e2eccfbe88dd648389c7d4f5eb"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structure Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Actor"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AcceptanceTester"><param name="Local" value="d1/d7b/class_app_1_1_tests_1_1_acceptance_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ApiTester"><param name="Local" value="d3/d47/class_app_1_1_tests_1_1_api_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FunctionalTester"><param name="Local" value="de/d1e/class_app_1_1_tests_1_1_functional_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UnitTester"><param name="Local" value="d7/d22/class_app_1_1_tests_1_1_unit_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AuthCest"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseKernel"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Kernel"><param name="Local" value="d8/d42/class_app_1_1_kernel.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BasicEnum"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DiscountTypeEnum"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UserRoleEnum"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateUserCest"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Module"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Acceptance"><param name="Local" value="d6/d46/class_app_1_1_tests_1_1_helper_1_1_acceptance.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Api"><param name="Local" value="d4/dd1/class_app_1_1_tests_1_1_helper_1_1_api.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Functional"><param name="Local" value="d7/d4f/class_app_1_1_tests_1_1_helper_1_1_functional.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Unit"><param name="Local" value="db/d78/class_app_1_1_tests_1_1_helper_1_1_unit.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Product"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AbstractController"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UserAuthController"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Constraint"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidRoles"><param name="Local" value="d2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ConstraintValidator"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidRolesValidator"><param name="Local" value="d7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Controller"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UsersController"><param name="Local" value="de/d6d/class_app_1_1_controller_1_1_users_controller.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ServiceEntityRepository"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductRepository"><param name="Local" value="d4/dc0/class_app_1_1_repository_1_1_product_repository.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UsersRepository"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UserInterface"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Users"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Fields"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="config"><param name="Local" value="dir_9f351d46ce3cc29445a41dc3a31e6919.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="bootstrap.php"><param name="Local" value="d1/d55/bootstrap_8php.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="$_SERVER"><param name="Local" value="d1/d55/bootstrap_8php.html#a4313cd20e24edf712de3a52463e8522d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="$_SERVER"><param name="Local" value="d1/d55/bootstrap_8php.html#a4313cd20e24edf712de3a52463e8522d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="$_SERVER"><param name="Local" value="d1/d55/bootstrap_8php.html#a29246f1020c32c942ff74b154b7e2204"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="$_SERVER"><param name="Local" value="d1/d55/bootstrap_8php.html#a34db4a7de22e97210c79b5e59cb8e5b0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="else"><param name="Local" value="d1/d55/bootstrap_8php.html#af82907ffd29945f58c1703adcc1c5031"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="bundles.php"><param name="Local" value="dc/d4a/bundles_8php.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="return"><param name="Local" value="dc/d4a/bundles_8php.html#a22333891ecf6ec3e343b2a7c0de5f253"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="public"><param name="Local" value="dir_f832923ad3cb060bc87ad85e68b8a1c3.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="index.php"><param name="Local" value="de/d20/index_8php.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="$kernel"><param name="Local" value="de/d20/index_8php.html#a9bf422b41de5ae675f0816fe2bb56154"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="$request"><param name="Local" value="de/d20/index_8php.html#abb35c8495a232b510389fa6d7b15d38a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="$response"><param name="Local" value="de/d20/index_8php.html#af4b6fb1bbc77ccc05f10da3b16935b99"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_68267d1309a1af8e8297ef4c3efbcdba.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Controller"><param name="Local" value="dir_b3b6f0ba51cfe0acc4894d1f872bef0a.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UserAuthController.php"><param name="Local" value="d4/da1/_user_auth_controller_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UserAuthController"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="authentication"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html#a084c0f5299b2dcd5dc09217a4cbee3a9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="register"><param name="Local" value="d5/d93/class_app_1_1_controller_1_1_user_auth_controller.html#a48ca544e8b3f9ff0573ec2a2b55129ac"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UsersController.php"><param name="Local" value="d5/d11/_users_controller_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UsersController"><param name="Local" value="de/d6d/class_app_1_1_controller_1_1_users_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="index"><param name="Local" value="de/d6d/class_app_1_1_controller_1_1_users_controller.html#a9496230b44e392702289711e7c2f2e8a"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Entity"><param name="Local" value="dir_afc99902bfecf368d324149b3dedaf36.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LifeCycleCallbacks"><param name="Local" value="dir_c312734661fba7777ad7454ddfa76e20.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CreatedAtLifeCycleCallbackTrait.php"><param name="Local" value="d8/dce/_created_at_life_cycle_callback_trait_8php.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getCreatedAt"><param name="Local" value="d8/dce/_created_at_life_cycle_callback_trait_8php.html#a2b386d6d0a66d69274ec07f4902dd900"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="updateCreatedAt"><param name="Local" value="d8/dce/_created_at_life_cycle_callback_trait_8php.html#af00445d724d37585eb60504575c6f6c4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CreatedAtLifeCycleCallbackTrait"><param name="Local" value="d8/dce/_created_at_life_cycle_callback_trait_8php.html#adc62da6cfe1064e3c6733ed9f162754e"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait.php"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getUpdatedAt"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html#aea6550a1dad7e4125ad123477dbbc392"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setUpdatedAt"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html#ae5d02a32ae53c5af99a02a55f666bb7e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="updatedTimestamps"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html#a4c705c0f9b5c8f747a715940ee197293"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdatedAtLifeCycleCallbackTrait"><param name="Local" value="de/d6a/_updated_at_life_cycle_callback_trait_8php.html#a057bdc1b3f04afa0ab4ab52a973997aa"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Traits"><param name="Local" value="dir_d0d3bd9b34b3fa34e4ad90ee7651792b.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DeletedAtTrait.php"><param name="Local" value="d1/d0c/_deleted_at_trait_8php.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getDeletedAt"><param name="Local" value="d1/d0c/_deleted_at_trait_8php.html#a0ee5bfa57a5385baa93bc7c2ba3cbb09"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setDeletedAt"><param name="Local" value="d1/d0c/_deleted_at_trait_8php.html#acba88d47ee0906f3d19deae554e8ca31"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="DeletedAtTrait"><param name="Local" value="d1/d0c/_deleted_at_trait_8php.html#a744700970e1ca790b37409809c097f37"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IdTrait.php"><param name="Local" value="d7/dd5/_id_trait_8php.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getId"><param name="Local" value="d7/dd5/_id_trait_8php.html#a4c48cf9cbab3f5be7c7cc83da7e03f3c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IdTrait"><param name="Local" value="d7/dd5/_id_trait_8php.html#ab61876a6bd66112c777c0556812a8cb4"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TitleTrait.php"><param name="Local" value="d1/dea/_title_trait_8php.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="TitleTrait"><param name="Local" value="d1/dea/_title_trait_8php.html#ae5f17fed2df53235568612c834a08e14"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UserTrait.php"><param name="Local" value="df/d3f/_user_trait_8php.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getMember"><param name="Local" value="df/d3f/_user_trait_8php.html#a9cf8807d042f91fea88bda37037fdedd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setMember"><param name="Local" value="df/d3f/_user_trait_8php.html#ad22b810d4b9567880d9877337d0f1d72"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="UserTrait"><param name="Local" value="df/d3f/_user_trait_8php.html#a89c85f32816a86ce70e3617cf39813a7"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Product.php"><param name="Local" value="dc/db5/_product_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Product"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="__construct"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a095c5d389db211932136b53f25f39685"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getDescription"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a2e7bb35c71bf1824456ceb944cb7a845"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getDiscountAmount"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a22c176225c24f379b4279083d35e96c6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getId"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a12251d0c022e9e21c137a105ff683f13"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPrice"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a38146d2beb1dd6dfd0f2a5886e18a538"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getSellPrice"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#aefd60c3719a9269508214e2a2b04bf99"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getTitle"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a95e859a4588a39a1824b717378a84c29"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setDescription"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#acee77db44e361e2773e2734033f2a1c5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setDiscountAmount"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a62abb1071e8609fe49030497cb5f0085"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPrice"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a2e232712bdbc759793fab2cf08506c25"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setTitle"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a754ef3032cc3ffb25ad2d1a13720fc29"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="$discountAmount"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#af205539958f00c3a75fb55eb31e22096"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="$discountType"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#aa611bcce6c58570cc957c54913a09ca4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="$sellPrice"><param name="Local" value="d0/d8b/class_app_1_1_entity_1_1_product.html#a7b0f59bb9462d23556018206e5e543ee"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Users.php"><param name="Local" value="da/d68/_users_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Users"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="__construct"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a095c5d389db211932136b53f25f39685"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addRole"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a25b8a6ec2a79f06522f62fe2e94253c5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="eraseCredentials"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac565b8c00fe93ce673f8237849f072a6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getBirthdate"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aeafdb95ad7b97a5ff68ac785e8c243e5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getEmail"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a02a01849f28e2535e888ae4ec87b20f2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getFirstname"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a42c9621713b6dcdfb9edd5a7630b6d93"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getLastname"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5d606fdf02d35b79b74b91a88c09000f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getMobileNumber"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aea96b0b57905ed19f1f79712b61fb091"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPassword"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a04e0957baeb7acde9c0c86556da2d43f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getRoles"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aa676cae5ee8d7fb6862a8724adc2660d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getSalt"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a1dfe56d2c965d451a135f3f3910a8b8d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getUsername"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a81b37a3c9d639574e394f80c1138c75e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="hasRole"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a53a5bca218d3879ec04ebc1cb2c2bb56"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="removeRole"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#abd3249746fd38206c1cbe6c0c0a98043"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setAdmin"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a6c1b6c33c1a5e86504b90dbec6edaf22"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setBirthdate"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a2f3e06f15bd3cfa210473c2e0831b97c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setEmail"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5ef76eef42d2624386442eeb636d338c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setFirstname"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac0d3c14a97920f5b44aa3259477a0368"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setLastname"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a7670b9079201ea16393d26367f4af339"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setMobileNumber"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5583a257b7493b73eb6d965ef4a8d057"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPassword"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a3e35c8d3dbb2c513c618a664389e0926"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setRoles"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#aa3236c9c6688d04df16ea0ab3065530e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setUsername"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac359b701a2ccaff746dd480f03314244"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="updatePassword"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a5211cd44f5bae2c9fe22316ac62b8ecc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="$enabled"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a8d376199cc641e3e7af6e1a0d5c736d9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="$plainPassword"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#ac0e50eded62970e237e638c1ca378b09"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="$roles"><param name="Local" value="d0/d08/class_app_1_1_entity_1_1_users.html#a24a565772e407805783bcc46deeafeb3"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Enums"><param name="Local" value="dir_804e9c8a6f85b64a196ad58c4618e191.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BasicEnum.php"><param name="Local" value="db/d87/_basic_enum_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BasicEnum"><param name="Local" value="dc/d5c/class_app_1_1_enums_1_1_basic_enum.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DiscountTypeEnum.php"><param name="Local" value="d7/d2e/_discount_type_enum_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DiscountTypeEnum"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="FLAT"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html#a624d17d6f17d6193bb2981edf7dd14e6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="PERC"><param name="Local" value="d5/d61/class_app_1_1_enums_1_1_discount_type_enum.html#a0c62d1db364b92b153592989b3522f18"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UserRoleEnum.php"><param name="Local" value="d2/d8a/_user_role_enum_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UserRoleEnum"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ROLE_ADMIN"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html#a9fd0bde739ce8d8a0826a4b5d5b4a84a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ROLE_USER"><param name="Local" value="d4/d63/class_app_1_1_enums_1_1_user_role_enum.html#a7b2bfb013f1c15d8d3d65f31b26ddce5"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Repository"><param name="Local" value="dir_d3602c4a2871e2f70a9bcb96e0999416.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductRepository.php"><param name="Local" value="dc/db8/_product_repository_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductRepository"><param name="Local" value="d4/dc0/class_app_1_1_repository_1_1_product_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="__construct"><param name="Local" value="d4/dc0/class_app_1_1_repository_1_1_product_repository.html#a38ea33dde11163765f358f5f10a3bc03"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UsersRepository.php"><param name="Local" value="d4/d4c/_users_repository_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UsersRepository"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="__construct"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html#aadca7edd263e228921a1860bb6b9c252"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="loadUserByUsername"><param name="Local" value="d6/d30/class_app_1_1_repository_1_1_users_repository.html#a09423ffc9f178a746b6eefbf6a36697e"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Validator"><param name="Local" value="dir_be9ec1db8d7a04c7ebe22d88c074cebe.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Constraints"><param name="Local" value="dir_df292a81fd4cbea0cddc0588baadd012.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidRoles.php"><param name="Local" value="d9/d39/_valid_roles_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidRoles"><param name="Local" value="d2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="$message"><param name="Local" value="d2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles.html#abf17cb2dba2ed17cb28aa5f37deb5293"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidRolesValidator.php"><param name="Local" value="d4/d48/_valid_roles_validator_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidRolesValidator"><param name="Local" value="d7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="validate"><param name="Local" value="d7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator.html#a19da66d7ebf5f508cbdad3a2f255f107"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Kernel.php"><param name="Local" value="dc/deb/_kernel_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Kernel"><param name="Local" value="d8/d42/class_app_1_1_kernel.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="configureContainer"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a8309831536a0535383e4d41657b54635"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="configureRoutes"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a07bf0718482c124f9f0df16ddfa4329b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getProjectDir"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#acce4acecbc0d0e6061ae1a844513d5fd"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="registerBundles"><param name="Local" value="d8/d42/class_app_1_1_kernel.html#a8dd304e2eccfbe88dd648389c7d4f5eb"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="tests"><param name="Local" value="dir_59425e443f801f1f2fd8bbe4959a3ccf.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_support"><param name="Local" value="dir_529cabff3e92eae17a1659de69614cfb.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Helper"><param name="Local" value="dir_f8510baa541fc5c0ff79e4bdace8b49e.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Acceptance.php"><param name="Local" value="dd/deb/_acceptance_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Acceptance"><param name="Local" value="d6/d46/class_app_1_1_tests_1_1_helper_1_1_acceptance.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Api.php"><param name="Local" value="de/dfc/_api_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Api"><param name="Local" value="d4/dd1/class_app_1_1_tests_1_1_helper_1_1_api.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Functional.php"><param name="Local" value="db/df7/_functional_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Functional"><param name="Local" value="d7/d4f/class_app_1_1_tests_1_1_helper_1_1_functional.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Unit.php"><param name="Local" value="d1/d69/_unit_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unit"><param name="Local" value="db/d78/class_app_1_1_tests_1_1_helper_1_1_unit.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AcceptanceTester.php"><param name="Local" value="d1/dcf/_acceptance_tester_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AcceptanceTester"><param name="Local" value="d1/d7b/class_app_1_1_tests_1_1_acceptance_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ApiTester.php"><param name="Local" value="d5/db3/_api_tester_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ApiTester"><param name="Local" value="d3/d47/class_app_1_1_tests_1_1_api_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FunctionalTester.php"><param name="Local" value="d7/dc7/_functional_tester_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FunctionalTester"><param name="Local" value="de/d1e/class_app_1_1_tests_1_1_functional_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UnitTester.php"><param name="Local" value="db/d7b/_unit_tester_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UnitTester"><param name="Local" value="d7/d22/class_app_1_1_tests_1_1_unit_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="api"><param name="Local" value="dir_4cc68d6eae4e00982321ac175f69e749.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AuthCest.php"><param name="Local" value="de/d11/_auth_cest_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AuthCest"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_before"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#aafb27dda17c3e44c5fe8836f46fb3434"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="createUser"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#ac726bf29510b2291d1f00aab510292e3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="tryToLogin"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#a749de04de607e29c4fa0d85cde5ce73d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="$token"><param name="Local" value="d6/d59/class_app_1_1_tests_1_1_auth_cest.html#a00ae4fcafb1145f5e968bdf920f83e2e"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateUserCest.php"><param name="Local" value="d1/d67/_create_user_cest_8php.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateUserCest"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_before"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#aafb27dda17c3e44c5fe8836f46fb3434"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="createUser"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ac726bf29510b2291d1f00aab510292e3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithAllInvalidInput"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ab0cf40e51a0bd9973d20825b7e2300c6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithInvalidEmail"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#a03bdd88c719f74adbfb053eb1918a290"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithSameUserName"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#ab5ca61130cc32416cf23397ac8b0d4d6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithSmallPassword"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#aaa13e61af3d36aa33ede64ee6b7d65e6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="createUserWithSmallUserName"><param name="Local" value="d4/d4a/class_app_1_1_tests_1_1_create_user_cest.html#a4354ff9d0e3f11beb27c66ff8619327d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Globals"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="globals_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

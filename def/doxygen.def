@@ -1,0 +1,4502 @@
+AutoGen Definitions dummy;
+class = {
+  cp-id     = 'd6/d46/class_app_1_1_tests_1_1_helper_1_1_acceptance';
+  cp-name   = 'App::Tests::Helper::Acceptance';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd2/dcf/class_codeception_1_1_module';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/Helper/Acceptance.php';
+  cp-fileline  = '8';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Acceptance';
+        node-link = {
+          node-link-id = 'd6/d46/class_app_1_1_tests_1_1_helper_1_1_acceptance';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Module';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Acceptance';
+        node-link = {
+          node-link-id = 'd6/d46/class_app_1_1_tests_1_1_helper_1_1_acceptance';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Module';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd1/d7b/class_app_1_1_tests_1_1_acceptance_tester';
+  cp-name   = 'App::Tests::AcceptanceTester';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'dc/da9/class_codeception_1_1_actor';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/AcceptanceTester.php';
+  cp-fileline  = '20';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+Inherited Methods
+@method void wantToTest($text)
+@method void wantTo($text)
+@method void execute($callable)
+@method void expectTo($prediction)
+@method void expect($prediction)
+@method void amGoingTo($argumentation)
+@method void am($role)
+@method void lookForwardTo($achieveValue)
+@method void comment($description)
+@method \Codeception\Lib\Friend haveFriend($name, $actorClass = NULL)
+
+@SuppressWarnings(PHPMD)
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Actor';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'AcceptanceTester';
+        node-link = {
+          node-link-id = 'd1/d7b/class_app_1_1_tests_1_1_acceptance_tester';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Actor';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'AcceptanceTester';
+        node-link = {
+          node-link-id = 'd1/d7b/class_app_1_1_tests_1_1_acceptance_tester';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'dc/da9/class_codeception_1_1_actor';
+  cp-name   = 'Codeception::Actor';
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'd1/d7b/class_app_1_1_tests_1_1_acceptance_tester';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'd3/d47/class_app_1_1_tests_1_1_api_tester';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'de/d1e/class_app_1_1_tests_1_1_functional_tester';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'd7/d22/class_app_1_1_tests_1_1_unit_tester';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/ApiTester.php';
+  cp-fileline  = '20';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Actor';
+      }; /* node */
+      node = {
+        node-id    = 4;
+        node-label = 'FunctionalTester';
+        node-link = {
+          node-link-id = 'de/d1e/class_app_1_1_tests_1_1_functional_tester';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 3;
+        node-label = 'ApiTester';
+        node-link = {
+          node-link-id = 'd3/d47/class_app_1_1_tests_1_1_api_tester';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 5;
+        node-label = 'UnitTester';
+        node-link = {
+          node-link-id = 'd7/d22/class_app_1_1_tests_1_1_unit_tester';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'AcceptanceTester';
+        node-link = {
+          node-link-id = 'd1/d7b/class_app_1_1_tests_1_1_acceptance_tester';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Actor';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd4/dd1/class_app_1_1_tests_1_1_helper_1_1_api';
+  cp-name   = 'App::Tests::Helper::Api';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd2/dcf/class_codeception_1_1_module';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/Helper/Api.php';
+  cp-fileline  = '8';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Api';
+        node-link = {
+          node-link-id = 'd4/dd1/class_app_1_1_tests_1_1_helper_1_1_api';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Module';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Api';
+        node-link = {
+          node-link-id = 'd4/dd1/class_app_1_1_tests_1_1_helper_1_1_api';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Module';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd3/d47/class_app_1_1_tests_1_1_api_tester';
+  cp-name   = 'App::Tests::ApiTester';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'dc/da9/class_codeception_1_1_actor';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/ApiTester.php';
+  cp-fileline  = '20';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+Inherited Methods
+@method void wantToTest($text)
+@method void wantTo($text)
+@method void execute($callable)
+@method void expectTo($prediction)
+@method void expect($prediction)
+@method void amGoingTo($argumentation)
+@method void am($role)
+@method void lookForwardTo($achieveValue)
+@method void comment($description)
+@method void pause()
+
+@SuppressWarnings(PHPMD)
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'ApiTester';
+        node-link = {
+          node-link-id = 'd3/d47/class_app_1_1_tests_1_1_api_tester';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Actor';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'ApiTester';
+        node-link = {
+          node-link-id = 'd3/d47/class_app_1_1_tests_1_1_api_tester';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Actor';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd6/d59/class_app_1_1_tests_1_1_auth_cest';
+  cp-name   = 'App::Tests::AuthCest';
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd6/d59/class_app_1_1_tests_1_1_auth_cest_1aafb27dda17c3e44c5fe8836f46fb3434';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '_before';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/AuthCest.php';
+      sec-mem-desc-line = '8';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd6/d59/class_app_1_1_tests_1_1_auth_cest_1ac726bf29510b2291d1f00aab510292e3';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'createUser';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/AuthCest.php';
+      sec-mem-desc-line = '13';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd6/d59/class_app_1_1_tests_1_1_auth_cest_1a749de04de607e29c4fa0d85cde5ce73d';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'tryToLogin';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/AuthCest.php';
+      sec-mem-desc-line = '28';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'protected-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd6/d59/class_app_1_1_tests_1_1_auth_cest_1a00ae4fcafb1145f5e968bdf920f83e2e';
+      sec-mem-virt = normal;
+      sec-mem-prot = protected;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$token';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/AuthCest.php';
+      sec-mem-desc-line = '6';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/AuthCest.php';
+  cp-fileline  = '5';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'AuthCest';
+        node-link = {
+          node-link-id = 'd6/d59/class_app_1_1_tests_1_1_auth_cest';
+        };
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd9/d9f/class_base_kernel';
+  cp-name   = 'BaseKernel';
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'd8/d42/class_app_1_1_kernel';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Kernel.php';
+  cp-fileline  = '13';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Kernel';
+        node-link = {
+          node-link-id = 'd8/d42/class_app_1_1_kernel';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'BaseKernel';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'BaseKernel';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum';
+  cp-name   = 'App::Enums::BasicEnum';
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'd5/d61/class_app_1_1_enums_1_1_discount_type_enum';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'd4/d63/class_app_1_1_enums_1_1_user_role_enum';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-static-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum_1a573bb600b466b4ac8fe33911e458f86c';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+static
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getConstants';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/BasicEnum.php';
+      sec-mem-desc-line = '18';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@throws \ReflectionException
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a25b8a6ec2a79f06522f62fe2e94253c5';
+        sec-mem-ref-line = '400';
+        sec-mem-ref-name = 'Users::addRole';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'db/d87/_basic_enum_8php_1a5ab7de74af629e3a1a0104ac665bdeb8';
+        sec-mem-ref-line = '35';
+        sec-mem-ref-name = 'BasicEnum::isValidName';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'd4/d48/_valid_roles_validator_8php_1a19da66d7ebf5f508cbdad3a2f255f107';
+        sec-mem-ref-line = '14';
+        sec-mem-ref-name = 'ValidRolesValidator::validate';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum_1a5ab7de74af629e3a1a0104ac665bdeb8';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+static
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'isValidName';
+      sec-mem-param = {
+        sec-mem-param-declname = '$name';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-declname = '$strict';
+        sec-mem-param-defval = <<_EnD_oF_dEf_TeXt_
+false
+_EnD_oF_dEf_TeXt_;
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/BasicEnum.php';
+      sec-mem-desc-line = '35';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param $name
+@param bool $strict
+
+@return bool
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'db/d87/_basic_enum_8php_1a573bb600b466b4ac8fe33911e458f86c';
+        sec-mem-ref-line = '18';
+        sec-mem-ref-name = 'BasicEnum::getConstants';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum_1aa0cd4f6a2432873cb589a9e85f65a0ed';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+static
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'isValidValue';
+      sec-mem-param = {
+        sec-mem-param-declname = '$value';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-declname = '$strict';
+        sec-mem-param-defval = <<_EnD_oF_dEf_TeXt_
+true
+_EnD_oF_dEf_TeXt_;
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/BasicEnum.php';
+      sec-mem-desc-line = '54';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param $value
+@param bool $strict
+
+@return bool
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'private-static-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum_1adcf286a9b55ed9e3cf129bb449223cb5';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+static
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$constCacheArray';
+      sec-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= []
+_EnD_oF_dEf_TeXt_;
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/BasicEnum.php';
+      sec-mem-desc-line = '13';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/BasicEnum.php';
+  cp-fileline  = '9';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+Class AbstractBasicEnum.
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'DiscountTypeEnum';
+        node-link = {
+          node-link-id = 'd5/d61/class_app_1_1_enums_1_1_discount_type_enum';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'BasicEnum';
+        node-link = {
+          node-link-id = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum';
+        };
+      }; /* node */
+      node = {
+        node-id    = 3;
+        node-label = 'UserRoleEnum';
+        node-link = {
+          node-link-id = 'd4/d63/class_app_1_1_enums_1_1_user_role_enum';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'BasicEnum';
+        node-link = {
+          node-link-id = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum';
+        };
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd4/d4a/class_app_1_1_tests_1_1_create_user_cest';
+  cp-name   = 'App::Tests::CreateUserCest';
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd4/d4a/class_app_1_1_tests_1_1_create_user_cest_1aafb27dda17c3e44c5fe8836f46fb3434';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '_before';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/CreateUserCest.php';
+      sec-mem-desc-line = '6';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd4/d4a/class_app_1_1_tests_1_1_create_user_cest_1a4354ff9d0e3f11beb27c66ff8619327d';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'createUserWithSmallUserName';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/CreateUserCest.php';
+      sec-mem-desc-line = '12';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd4/d4a/class_app_1_1_tests_1_1_create_user_cest_1aaa13e61af3d36aa33ede64ee6b7d65e6';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'createUserWithSmallPassword';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/CreateUserCest.php';
+      sec-mem-desc-line = '28';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd4/d4a/class_app_1_1_tests_1_1_create_user_cest_1a03bdd88c719f74adbfb053eb1918a290';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'createUserWithInvalidEmail';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/CreateUserCest.php';
+      sec-mem-desc-line = '43';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd4/d4a/class_app_1_1_tests_1_1_create_user_cest_1ab0cf40e51a0bd9973d20825b7e2300c6';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'createUserWithAllInvalidInput';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/CreateUserCest.php';
+      sec-mem-desc-line = '58';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd4/d4a/class_app_1_1_tests_1_1_create_user_cest_1ac726bf29510b2291d1f00aab510292e3';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'createUser';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/CreateUserCest.php';
+      sec-mem-desc-line = '73';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd4/d4a/class_app_1_1_tests_1_1_create_user_cest_1ab5ca61130cc32416cf23397ac8b0d4d6';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'createUserWithSameUserName';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ApiTester
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$I';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/CreateUserCest.php';
+      sec-mem-desc-line = '89';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/CreateUserCest.php';
+  cp-fileline  = '5';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'CreateUserCest';
+        node-link = {
+          node-link-id = 'd4/d4a/class_app_1_1_tests_1_1_create_user_cest';
+        };
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd5/d61/class_app_1_1_enums_1_1_discount_type_enum';
+  cp-name   = 'App::Enums::DiscountTypeEnum';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd5/d61/class_app_1_1_enums_1_1_discount_type_enum_1a624d17d6f17d6193bb2981edf7dd14e6';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+const
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'FLAT';
+      sec-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= 'FLAT'
+_EnD_oF_dEf_TeXt_;
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/DiscountTypeEnum.php';
+      sec-mem-desc-line = '11';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1aefd60c3719a9269508214e2a2b04bf99';
+        sec-mem-ref-line = '176';
+        sec-mem-ref-name = 'Product::getSellPrice';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd5/d61/class_app_1_1_enums_1_1_discount_type_enum_1a0c62d1db364b92b153592989b3522f18';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+const
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'PERC';
+      sec-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= 'PERC'
+_EnD_oF_dEf_TeXt_;
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/DiscountTypeEnum.php';
+      sec-mem-desc-line = '12';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1aefd60c3719a9269508214e2a2b04bf99';
+        sec-mem-ref-line = '176';
+        sec-mem-ref-name = 'Product::getSellPrice';
+    };
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/DiscountTypeEnum.php';
+  cp-fileline  = '10';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'DiscountTypeEnum';
+        node-link = {
+          node-link-id = 'd5/d61/class_app_1_1_enums_1_1_discount_type_enum';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'BasicEnum';
+        node-link = {
+          node-link-id = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum';
+        };
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'DiscountTypeEnum';
+        node-link = {
+          node-link-id = 'd5/d61/class_app_1_1_enums_1_1_discount_type_enum';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'BasicEnum';
+        node-link = {
+          node-link-id = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum';
+        };
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd7/d4f/class_app_1_1_tests_1_1_helper_1_1_functional';
+  cp-name   = 'App::Tests::Helper::Functional';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd2/dcf/class_codeception_1_1_module';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/Helper/Functional.php';
+  cp-fileline  = '8';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Module';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'Functional';
+        node-link = {
+          node-link-id = 'd7/d4f/class_app_1_1_tests_1_1_helper_1_1_functional';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Module';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'Functional';
+        node-link = {
+          node-link-id = 'd7/d4f/class_app_1_1_tests_1_1_helper_1_1_functional';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'de/d1e/class_app_1_1_tests_1_1_functional_tester';
+  cp-name   = 'App::Tests::FunctionalTester';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'dc/da9/class_codeception_1_1_actor';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/FunctionalTester.php';
+  cp-fileline  = '20';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+Inherited Methods
+@method void wantToTest($text)
+@method void wantTo($text)
+@method void execute($callable)
+@method void expectTo($prediction)
+@method void expect($prediction)
+@method void amGoingTo($argumentation)
+@method void am($role)
+@method void lookForwardTo($achieveValue)
+@method void comment($description)
+@method \Codeception\Lib\Friend haveFriend($name, $actorClass = NULL)
+
+@SuppressWarnings(PHPMD)
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Actor';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'FunctionalTester';
+        node-link = {
+          node-link-id = 'de/d1e/class_app_1_1_tests_1_1_functional_tester';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Actor';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'FunctionalTester';
+        node-link = {
+          node-link-id = 'de/d1e/class_app_1_1_tests_1_1_functional_tester';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd8/d42/class_app_1_1_kernel';
+  cp-name   = 'App::Kernel';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd9/d9f/class_base_kernel';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd8/d42/class_app_1_1_kernel_1a8dd304e2eccfbe88dd648389c7d4f5eb';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'registerBundles';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Kernel.php';
+      sec-mem-desc-line = '18';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd8/d42/class_app_1_1_kernel_1acce4acecbc0d0e6061ae1a844513d5fd';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getProjectDir';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Kernel.php';
+      sec-mem-desc-line = '28';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'protected-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd8/d42/class_app_1_1_kernel_1a8309831536a0535383e4d41657b54635';
+      sec-mem-virt = normal;
+      sec-mem-prot = protected;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'configureContainer';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ContainerBuilder
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$container';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+LoaderInterface
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$loader';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Kernel.php';
+      sec-mem-desc-line = '33';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd8/d42/class_app_1_1_kernel_1a07bf0718482c124f9f0df16ddfa4329b';
+      sec-mem-virt = normal;
+      sec-mem-prot = protected;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'configureRoutes';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RouteCollectionBuilder
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$routes';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Kernel.php';
+      sec-mem-desc-line = '45';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'private-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd8/d42/class_app_1_1_kernel_1a1294122fece91997b501ffa2c84786f2';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+const
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'CONFIG_EXTS';
+      sec-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= '.{php,xml,yaml,yml}'
+_EnD_oF_dEf_TeXt_;
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Kernel.php';
+      sec-mem-desc-line = '16';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Kernel.php';
+  cp-fileline  = '13';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Kernel';
+        node-link = {
+          node-link-id = 'd8/d42/class_app_1_1_kernel';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'BaseKernel';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Kernel';
+        node-link = {
+          node-link-id = 'd8/d42/class_app_1_1_kernel';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'BaseKernel';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd2/dcf/class_codeception_1_1_module';
+  cp-name   = 'Codeception::Module';
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'd6/d46/class_app_1_1_tests_1_1_helper_1_1_acceptance';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'd4/dd1/class_app_1_1_tests_1_1_helper_1_1_api';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'd7/d4f/class_app_1_1_tests_1_1_helper_1_1_functional';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'db/d78/class_app_1_1_tests_1_1_helper_1_1_unit';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/Helper/Api.php';
+  cp-fileline  = '8';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Acceptance';
+        node-link = {
+          node-link-id = 'd6/d46/class_app_1_1_tests_1_1_helper_1_1_acceptance';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'Module';
+      }; /* node */
+      node = {
+        node-id    = 3;
+        node-label = 'Api';
+        node-link = {
+          node-link-id = 'd4/dd1/class_app_1_1_tests_1_1_helper_1_1_api';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 5;
+        node-label = 'Unit';
+        node-link = {
+          node-link-id = 'db/d78/class_app_1_1_tests_1_1_helper_1_1_unit';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 4;
+        node-label = 'Functional';
+        node-link = {
+          node-link-id = 'd7/d4f/class_app_1_1_tests_1_1_helper_1_1_functional';
+        };
+        node-child = {
+          child-id = '1';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Module';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd0/d8b/class_app_1_1_entity_1_1_product';
+  cp-name   = 'App::Entity::Product';
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a095c5d389db211932136b53f25f39685';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '__construct';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '50';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a12251d0c022e9e21c137a105ff683f13';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getId';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '111';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a95e859a4588a39a1824b717378a84c29';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getTitle';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '116';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a754ef3032cc3ffb25ad2d1a13720fc29';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setTitle';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+string
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$title';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '121';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a2e7bb35c71bf1824456ceb944cb7a845';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getDescription';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '128';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1acee77db44e361e2773e2734033f2a1c5';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setDescription';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+?string
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$description';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '133';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a38146d2beb1dd6dfd0f2a5886e18a538';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getPrice';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '143';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return mixed
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1aefd60c3719a9269508214e2a2b04bf99';
+        sec-mem-ref-line = '176';
+        sec-mem-ref-name = 'Product::getSellPrice';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a2e232712bdbc759793fab2cf08506c25';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setPrice';
+      sec-mem-param = {
+        sec-mem-param-declname = '$price';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '151';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param mixed $price
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a22c176225c24f379b4279083d35e96c6';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getDiscountAmount';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '159';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return mixed
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1af205539958f00c3a75fb55eb31e22096';
+        sec-mem-ref-line = '102';
+        sec-mem-ref-name = 'Product::$discountAmount';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1aefd60c3719a9269508214e2a2b04bf99';
+        sec-mem-ref-line = '176';
+        sec-mem-ref-name = 'Product::getSellPrice';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a62abb1071e8609fe49030497cb5f0085';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setDiscountAmount';
+      sec-mem-param = {
+        sec-mem-param-declname = '$discountAmount';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '167';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param mixed $discountAmount
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1af205539958f00c3a75fb55eb31e22096';
+        sec-mem-ref-line = '102';
+        sec-mem-ref-name = 'Product::$discountAmount';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1aefd60c3719a9269508214e2a2b04bf99';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getSellPrice';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '176';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return mixed
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'd7/d2e/_discount_type_enum_8php_1a624d17d6f17d6193bb2981edf7dd14e6';
+        sec-mem-ref-line = '11';
+        sec-mem-ref-name = 'DiscountTypeEnum::FLAT';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1a22c176225c24f379b4279083d35e96c6';
+        sec-mem-ref-line = '159';
+        sec-mem-ref-name = 'Product::getDiscountAmount';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1a38146d2beb1dd6dfd0f2a5886e18a538';
+        sec-mem-ref-line = '143';
+        sec-mem-ref-name = 'Product::getPrice';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'd7/d2e/_discount_type_enum_8php_1a0c62d1db364b92b153592989b3522f18';
+        sec-mem-ref-line = '12';
+        sec-mem-ref-name = 'DiscountTypeEnum::PERC';
+    };
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'public-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1aa611bcce6c58570cc957c54913a09ca4';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$discountType';
+      sec-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "FLAT"
+_EnD_oF_dEf_TeXt_;
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '96';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@Groups({"read", "write"})
+@ORM\Column(type="string", length=255, nullable=true)
+@Assert\Choice(callback={"App\Enums\DiscountTypeEnum", "getConstants"})
+ @ApiProperty(
+    attributes={
+        "swagger_context"={
+            "type"="string",
+            "enum"={"FLAT", "PERC"},
+            "example"="FLAT",
+        },
+    },
+)
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'protected-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1af205539958f00c3a75fb55eb31e22096';
+      sec-mem-virt = normal;
+      sec-mem-prot = protected;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$discountAmount';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '102';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+ @Groups({ "read", "write"})
+@ORM\Column(type="integer", length=255, nullable=true)
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1a22c176225c24f379b4279083d35e96c6';
+        sec-mem-ref-line = '159';
+        sec-mem-ref-name = 'Product::getDiscountAmount';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'dc/db5/_product_8php_1a62abb1071e8609fe49030497cb5f0085';
+        sec-mem-ref-line = '167';
+        sec-mem-ref-name = 'Product::setDiscountAmount';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a7b0f59bb9462d23556018206e5e543ee';
+      sec-mem-virt = normal;
+      sec-mem-prot = protected;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$sellPrice';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '109';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'private-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1ada57e7bb7c152edad18fe2f166188691';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$title';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '68';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@Groups({ "read", "write"})
+@ORM\Column(type="string", length=255)
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a87b032cba06009e3467abf1c8018d960';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$description';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '74';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@Groups({ "read", "write"})
+@ORM\Column(type="string", length=255, nullable=true)
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d8b/class_app_1_1_entity_1_1_product_1a264091074b1a8f4ed0abefd278831f6f';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$price';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+      sec-mem-desc-line = '80';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@Groups({ "read", "write"})
+@ORM\Column(type="integer", length=255, nullable=true)
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+  cp-fileline  = '49';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+@ORM\Entity(repositoryClass="App\Repository\ProductRepository")
+@ORM\HasLifecycleCallbacks
+@ApiResource(
+   attributes={
+        "normalization_context"={"groups"={ "relationship:read",  "read"}, "enable_max_depth"="true"},
+        "denormalization_context"={"groups"={"write"},  "enable_max_depth"=true}
+    },
+    collectionOperations={"get", "post"={"security"="is_granted('ROLE_ADMIN')"}},
+    itemOperations={"get", "put"={"security"="is_granted('ROLE_ADMIN')"}, "delete"={"security"="is_granted('ROLE_ADMIN')"}}
+    )
+@ApiFilter(SearchFilter::class, properties={"society"="exact","scope"="exact"})
+@ApiFilter(OrderFilter::class, properties={"createdAt"}, arguments={"orderParameterName"="order"})
+@ApiFilter(DateFilter::class, properties={"createdAt"})
+@Gedmo\SoftDeleteable(fieldName="deletedAt")
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Product';
+        node-link = {
+          node-link-id = 'd0/d8b/class_app_1_1_entity_1_1_product';
+        };
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd4/dc0/class_app_1_1_repository_1_1_product_repository';
+  cp-name   = 'App::Repository::ProductRepository';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'de/d7c/class_doctrine_1_1_bundle_1_1_doctrine_bundle_1_1_repository_1_1_service_entity_repository';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd4/dc0/class_app_1_1_repository_1_1_product_repository_1a38ea33dde11163765f358f5f10a3bc03';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '__construct';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ManagerRegistry
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$registry';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Repository/ProductRepository.php';
+      sec-mem-desc-line = '17';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Repository/ProductRepository.php';
+  cp-fileline  = '16';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+@method Product|null find($id, $lockMode = null, $lockVersion = null)
+@method Product|null findOneBy(array $criteria, array $orderBy = null)
+@method Product[]    findAll()
+@method Product[]    findBy(array $criteria, array $orderBy = null, $limit = null, $offset = null)
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'ServiceEntityRepository';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'ProductRepository';
+        node-link = {
+          node-link-id = 'd4/dc0/class_app_1_1_repository_1_1_product_repository';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'ServiceEntityRepository';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'ProductRepository';
+        node-link = {
+          node-link-id = 'd4/dc0/class_app_1_1_repository_1_1_product_repository';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'db/d78/class_app_1_1_tests_1_1_helper_1_1_unit';
+  cp-name   = 'App::Tests::Helper::Unit';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd2/dcf/class_codeception_1_1_module';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/Helper/Unit.php';
+  cp-fileline  = '8';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Module';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'Unit';
+        node-link = {
+          node-link-id = 'db/d78/class_app_1_1_tests_1_1_helper_1_1_unit';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Module';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'Unit';
+        node-link = {
+          node-link-id = 'db/d78/class_app_1_1_tests_1_1_helper_1_1_unit';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd7/d22/class_app_1_1_tests_1_1_unit_tester';
+  cp-name   = 'App::Tests::UnitTester';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'dc/da9/class_codeception_1_1_actor';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/UnitTester.php';
+  cp-fileline  = '20';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+Inherited Methods
+@method void wantToTest($text)
+@method void wantTo($text)
+@method void execute($callable)
+@method void expectTo($prediction)
+@method void expect($prediction)
+@method void amGoingTo($argumentation)
+@method void am($role)
+@method void lookForwardTo($achieveValue)
+@method void comment($description)
+@method \Codeception\Lib\Friend haveFriend($name, $actorClass = NULL)
+
+@SuppressWarnings(PHPMD)
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Actor';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'UnitTester';
+        node-link = {
+          node-link-id = 'd7/d22/class_app_1_1_tests_1_1_unit_tester';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'Actor';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'UnitTester';
+        node-link = {
+          node-link-id = 'd7/d22/class_app_1_1_tests_1_1_unit_tester';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd5/d93/class_app_1_1_controller_1_1_user_auth_controller';
+  cp-name   = 'App::Controller::UserAuthController';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd2/dc5/class_symfony_1_1_bundle_1_1_framework_bundle_1_1_controller_1_1_abstract_controller';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd5/d93/class_app_1_1_controller_1_1_user_auth_controller_1a084c0f5299b2dcd5dc09217a4cbee3a9';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'authentication';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Request
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$request';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+JWTTokenManagerInterface
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$JWTManager';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+UserInterface
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$user';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Controller/UserAuthController.php';
+      sec-mem-desc-line = '20';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd5/d93/class_app_1_1_controller_1_1_user_auth_controller_1a48ca544e8b3f9ff0573ec2a2b55129ac';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'register';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Request
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$request';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+UserPasswordEncoderInterface
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$encoder';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+ValidatorInterface
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$validator';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Controller/UserAuthController.php';
+      sec-mem-desc-line = '30';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'de/d20/index_8php_1abb35c8495a232b510389fa6d7b15d38a';
+        sec-mem-ref-line = '24';
+        sec-mem-ref-name = '$request';
+    };
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Controller/UserAuthController.php';
+  cp-fileline  = '19';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'UserAuthController';
+        node-link = {
+          node-link-id = 'd5/d93/class_app_1_1_controller_1_1_user_auth_controller';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'AbstractController';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'UserAuthController';
+        node-link = {
+          node-link-id = 'd5/d93/class_app_1_1_controller_1_1_user_auth_controller';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'AbstractController';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd4/d63/class_app_1_1_enums_1_1_user_role_enum';
+  cp-name   = 'App::Enums::UserRoleEnum';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd4/d63/class_app_1_1_enums_1_1_user_role_enum_1a7b2bfb013f1c15d8d3d65f31b26ddce5';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+const
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'ROLE_USER';
+      sec-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= 'ROLE_USER'
+_EnD_oF_dEf_TeXt_;
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/UserRoleEnum.php';
+      sec-mem-desc-line = '11';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1aa676cae5ee8d7fb6862a8724adc2660d';
+        sec-mem-ref-line = '379';
+        sec-mem-ref-name = 'Users::getRoles';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a25b8a6ec2a79f06522f62fe2e94253c5';
+        sec-mem-ref-line = '400';
+        sec-mem-ref-name = 'Users::addRole';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd4/d63/class_app_1_1_enums_1_1_user_role_enum_1a9fd0bde739ce8d8a0826a4b5d5b4a84a';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+const
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'ROLE_ADMIN';
+      sec-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= 'ROLE_ADMIN'
+_EnD_oF_dEf_TeXt_;
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/UserRoleEnum.php';
+      sec-mem-desc-line = '12';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a6c1b6c33c1a5e86504b90dbec6edaf22';
+        sec-mem-ref-line = '434';
+        sec-mem-ref-name = 'Users::setAdmin';
+    };
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/UserRoleEnum.php';
+  cp-fileline  = '10';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'BasicEnum';
+        node-link = {
+          node-link-id = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum';
+        };
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'UserRoleEnum';
+        node-link = {
+          node-link-id = 'd4/d63/class_app_1_1_enums_1_1_user_role_enum';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'BasicEnum';
+        node-link = {
+          node-link-id = 'dc/d5c/class_app_1_1_enums_1_1_basic_enum';
+        };
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'UserRoleEnum';
+        node-link = {
+          node-link-id = 'd4/d63/class_app_1_1_enums_1_1_user_role_enum';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd0/d08/class_app_1_1_entity_1_1_users';
+  cp-name   = 'App::Entity::Users';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd9/d46/class_symfony_1_1_component_1_1_security_1_1_core_1_1_user_1_1_user_interface';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a095c5d389db211932136b53f25f39685';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '__construct';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '145';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1aea96b0b57905ed19f1f79712b61fb091';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getMobileNumber';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '247';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return string
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a5583a257b7493b73eb6d965ef4a8d057';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setMobileNumber';
+      sec-mem-param = {
+        sec-mem-param-declname = '$mobileNumber';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '255';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param string $mobileNumber
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a81b37a3c9d639574e394f80c1138c75e';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getUsername';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '263';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return string
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1ac359b701a2ccaff746dd480f03314244';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setUsername';
+      sec-mem-param = {
+        sec-mem-param-declname = '$username';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '271';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param string $username
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a42c9621713b6dcdfb9edd5a7630b6d93';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getFirstname';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '279';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return string
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1ac0d3c14a97920f5b44aa3259477a0368';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setFirstname';
+      sec-mem-param = {
+        sec-mem-param-declname = '$firstname';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '287';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param string $firstname
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a5d606fdf02d35b79b74b91a88c09000f';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getLastname';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '295';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return string
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a7670b9079201ea16393d26367f4af339';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setLastname';
+      sec-mem-param = {
+        sec-mem-param-declname = '$lastname';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '303';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param string $lastname
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a02a01849f28e2535e888ae4ec87b20f2';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getEmail';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '311';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return string
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a5ef76eef42d2624386442eeb636d338c';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setEmail';
+      sec-mem-param = {
+        sec-mem-param-declname = '$email';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '319';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param string $email
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a04e0957baeb7acde9c0c86556da2d43f';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getPassword';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '327';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return string
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a3e35c8d3dbb2c513c618a664389e0926';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setPassword';
+      sec-mem-param = {
+        sec-mem-param-declname = '$password';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '335';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param string $password
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a5211cd44f5bae2c9fe22316ac62b8ecc';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'updatePassword';
+      sec-mem-param = {
+        sec-mem-param-declname = '$password';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '344';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param string $password
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1aeafdb95ad7b97a5ff68ac785e8c243e5';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getBirthdate';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '353';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return \DateTime
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a2f3e06f15bd3cfa210473c2e0831b97c';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setBirthdate';
+      sec-mem-param = {
+        sec-mem-param-declname = '$birthdate';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '361';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param \DateTime $birthdate
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a1dfe56d2c965d451a135f3f3910a8b8d';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getSalt';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '367';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1ac565b8c00fe93ce673f8237849f072a6';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'eraseCredentials';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '374';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1aa676cae5ee8d7fb6862a8724adc2660d';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getRoles';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '379';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a24a565772e407805783bcc46deeafeb3';
+        sec-mem-ref-line = '241';
+        sec-mem-ref-name = 'Users::$roles';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'd2/d8a/_user_role_enum_8php_1a7b2bfb013f1c15d8d3d65f31b26ddce5';
+        sec-mem-ref-line = '11';
+        sec-mem-ref-name = 'UserRoleEnum::ROLE_USER';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a53a5bca218d3879ec04ebc1cb2c2bb56';
+        sec-mem-ref-line = '392';
+        sec-mem-ref-name = 'Users::hasRole';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a53a5bca218d3879ec04ebc1cb2c2bb56';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'hasRole';
+      sec-mem-param = {
+        sec-mem-param-declname = '$role';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '392';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+{@inheritdoc}
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1aa676cae5ee8d7fb6862a8724adc2660d';
+        sec-mem-ref-line = '379';
+        sec-mem-ref-name = 'Users::getRoles';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a25b8a6ec2a79f06522f62fe2e94253c5';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'addRole';
+      sec-mem-param = {
+        sec-mem-param-declname = '$role';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '400';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+{@inheritdoc}
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'db/d87/_basic_enum_8php_1a573bb600b466b4ac8fe33911e458f86c';
+        sec-mem-ref-line = '18';
+        sec-mem-ref-name = 'BasicEnum::getConstants';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'd2/d8a/_user_role_enum_8php_1a7b2bfb013f1c15d8d3d65f31b26ddce5';
+        sec-mem-ref-line = '11';
+        sec-mem-ref-name = 'UserRoleEnum::ROLE_USER';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a6c1b6c33c1a5e86504b90dbec6edaf22';
+        sec-mem-ref-line = '434';
+        sec-mem-ref-name = 'Users::setAdmin';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1aa3236c9c6688d04df16ea0ab3065530e';
+        sec-mem-ref-line = '420';
+        sec-mem-ref-name = 'Users::setRoles';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1aa3236c9c6688d04df16ea0ab3065530e';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setRoles';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+array
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$roles';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '420';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+{@inheritdoc}
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a24a565772e407805783bcc46deeafeb3';
+        sec-mem-ref-line = '241';
+        sec-mem-ref-name = 'Users::$roles';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a25b8a6ec2a79f06522f62fe2e94253c5';
+        sec-mem-ref-line = '400';
+        sec-mem-ref-name = 'Users::addRole';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a6c1b6c33c1a5e86504b90dbec6edaf22';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'setAdmin';
+      sec-mem-param = {
+        sec-mem-param-declname = '$boolean';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '434';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+{@inheritdoc}
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a25b8a6ec2a79f06522f62fe2e94253c5';
+        sec-mem-ref-line = '400';
+        sec-mem-ref-name = 'Users::addRole';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1abd3249746fd38206c1cbe6c0c0a98043';
+        sec-mem-ref-line = '448';
+        sec-mem-ref-name = 'Users::removeRole';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'd2/d8a/_user_role_enum_8php_1a9fd0bde739ce8d8a0826a4b5d5b4a84a';
+        sec-mem-ref-line = '12';
+        sec-mem-ref-name = 'UserRoleEnum::ROLE_ADMIN';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1abd3249746fd38206c1cbe6c0c0a98043';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'removeRole';
+      sec-mem-param = {
+        sec-mem-param-declname = '$role';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '448';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+{@inheritdoc}
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1a6c1b6c33c1a5e86504b90dbec6edaf22';
+        sec-mem-ref-line = '434';
+        sec-mem-ref-name = 'Users::setAdmin';
+    };
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'public-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a8d376199cc641e3e7af6e1a0d5c736d9';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$enabled';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '180';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@Groups({"read", "write"})
+@ORM\Column(type="integer", length=1)
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1ac0e50eded62970e237e638c1ca378b09';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$plainPassword';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '223';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'protected-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a24a565772e407805783bcc46deeafeb3';
+      sec-mem-virt = normal;
+      sec-mem-prot = protected;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$roles';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '241';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@ValidRoles
+@Groups({"read", "write" , "admin:input"})
+@ORM\Column(type="array", nullable=true)
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1aa676cae5ee8d7fb6862a8724adc2660d';
+        sec-mem-ref-line = '379';
+        sec-mem-ref-name = 'Users::getRoles';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = 'da/d68/_users_8php_1aa3236c9c6688d04df16ea0ab3065530e';
+        sec-mem-ref-line = '420';
+        sec-mem-ref-name = 'Users::setRoles';
+    };
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'private-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a33076ed02bdba85ca50d8c70a8b8e840';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$mobileNumber';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '165';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a0eb82aa5f81cf845de4b36cd653c42cf';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$username';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '174';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a55793c72c535d153ffd3f0e43377898b';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$firstname';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '189';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a1d2ddb6354180329b59e8b90ed94dc7f';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$lastname';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '197';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1ad634f418b20382e2802f80532d76d3cd';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$email';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '210';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a607686ef9f99ea7c42f4f3dd3dbb2b0d';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$password';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '218';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd0/d08/class_app_1_1_entity_1_1_users_1a1d5a040d6cd65b40daa47911e18adbb0';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$birthdate';
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+      sec-mem-desc-line = '232';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+  cp-fileline  = '144';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+Users
+
+
+@ORM\Table(name="users")
+@ORM\Entity(repositoryClass="App\Repository\UsersRepository")
+@UniqueEntity("username", message="The username is already taken",groups={"registration"})
+@ORM\HasLifecycleCallbacks
+@ApiResource(
+    collectionOperations={"get",
+     "register"={
+            "denormalization_context"={"groups"={"registration"},  "enable_max_depth"=true},
+            "method"="POST",
+            "route_name"="register",
+            "swagger_context"={
+                "responses"={
+                    "200"={
+                        "description"="User's Registration",
+                        "schema"={
+                            "type"="object",
+                            "required"={
+                                "accessToken"
+                            },
+                        }
+                    },
+                    "400"={
+                        "description"="Invalid input"
+                    },
+                    "403"={
+                        "description"="Invalid authentication parameters, or no user was identified."
+                    }
+                },
+            },
+        },
+     "login"={
+            "denormalization_context"={"groups"={"login"},  "enable_max_depth"=true},
+            "method"="POST",
+            "route_name"="login",
+            "swagger_context"={
+               "summary"="Login OAuth2",
+               "description"="Login OAuth2",
+                "responses"={
+                    "200"={
+                        "description"="Access Token",
+                        "schema"={
+                            "type"="object",
+                            "required"={
+                                "accessToken"
+                            },
+                             "properties" = {
+                                  "token" = {
+                                     "type" = "string"
+                                  },
+                                  "refresh_token" = {
+                                     "type" = "string"
+                                  }
+                             }
+                        }
+                    },
+                    "400"={
+                        "description"="Invalid input"
+                    },
+                    "403"={
+                        "description"="Invalid authentication parameters, or no user was identified."
+                    }
+                },
+                 "consumes" = {
+                     "application/json",
+                     "text/html",
+                  },
+                 "produces" = {
+                     "application/json"
+                  }
+            },
+        },
+    },
+    itemOperations={
+     "get", "put", "delete","patch",
+        "profile"={
+            "method"="GET",
+            "route_name"="profile",
+            "swagger_context"={
+                "parameters"={},
+                "responses"={
+                    "200"={
+                        "description"="User's Profile",
+                        "schema"={
+                            "type"="object",
+                            "required"={
+                                "accessToken"
+                            },
+                        }
+                    },
+                    "400"={
+                        "description"="Invalid input"
+                    },
+                    "403"={
+                        "description"="Invalid authentication parameters, or no user was identified."
+                    }
+                },
+            },
+        },
+
+     },
+    attributes={
+        "normalization_context"={"groups"={ "relationship:read",  "read"}, "enable_max_depth"=true},
+        "denormalization_context"={"groups"={"write"},  "enable_max_depth"=true},
+        "order"={"id"="desc"}
+    })
+    @ApiFilter(SearchFilter::class, properties={"parent"="exact","memberType"="exact","society"="exact","username"="exact"})
+    @ApiFilter(OrderFilter::class, properties={"createdAt"}, arguments={"orderParameterName"="order"})
+    @ApiFilter(DateFilter::class, properties={"createdAt"})
+    @Gedmo\SoftDeleteable(fieldName="deletedAt")
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Users';
+        node-link = {
+          node-link-id = 'd0/d08/class_app_1_1_entity_1_1_users';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'UserInterface';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'Users';
+        node-link = {
+          node-link-id = 'd0/d08/class_app_1_1_entity_1_1_users';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'UserInterface';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'de/d6d/class_app_1_1_controller_1_1_users_controller';
+  cp-name   = 'App::Controller::UsersController';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd1/dc0/class_symfony_1_1_bundle_1_1_framework_bundle_1_1_controller_1_1_controller';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'de/d6d/class_app_1_1_controller_1_1_users_controller_1a9496230b44e392702289711e7c2f2e8a';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'index';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Request
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$request';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+NormalizerInterface
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$decorated';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Controller/UsersController.php';
+      sec-mem-desc-line = '18';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@Route("/profile", name="profile")
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Controller/UsersController.php';
+  cp-fileline  = '14';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'UsersController';
+        node-link = {
+          node-link-id = 'de/d6d/class_app_1_1_controller_1_1_users_controller';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Controller';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'UsersController';
+        node-link = {
+          node-link-id = 'de/d6d/class_app_1_1_controller_1_1_users_controller';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Controller';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd6/d30/class_app_1_1_repository_1_1_users_repository';
+  cp-name   = 'App::Repository::UsersRepository';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'de/d7c/class_doctrine_1_1_bundle_1_1_doctrine_bundle_1_1_repository_1_1_service_entity_repository';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd6/d30/class_app_1_1_repository_1_1_users_repository_1aadca7edd263e228921a1860bb6b9c252';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '__construct';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+RegistryInterface
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$registry';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Repository/UsersRepository.php';
+      sec-mem-desc-line = '16';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd6/d30/class_app_1_1_repository_1_1_users_repository_1a09423ffc9f178a746b6eefbf6a36697e';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'loadUserByUsername';
+      sec-mem-param = {
+        sec-mem-param-declname = '$username';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Repository/UsersRepository.php';
+      sec-mem-desc-line = '21';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Repository/UsersRepository.php';
+  cp-fileline  = '15';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+@method Users|null find($id, $lockMode = null, $lockVersion = null)
+@method Users|null findOneBy(array $criteria, array $orderBy = null)
+@method Users[]    findAll()
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'ServiceEntityRepository';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'UsersRepository';
+        node-link = {
+          node-link-id = 'd6/d30/class_app_1_1_repository_1_1_users_repository';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'ServiceEntityRepository';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'UsersRepository';
+        node-link = {
+          node-link-id = 'd6/d30/class_app_1_1_repository_1_1_users_repository';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles';
+  cp-name   = 'App::Validator::Constraints::ValidRoles';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd9/dab/class_symfony_1_1_component_1_1_validator_1_1_constraint';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'd2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_1abf17cb2dba2ed17cb28aa5f37deb5293';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '$message';
+      sec-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= 'Role Does not Exist'
+_EnD_oF_dEf_TeXt_;
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Validator/Constraints/ValidRoles.php';
+      sec-mem-desc-line = '12';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Validator/Constraints/ValidRoles.php';
+  cp-fileline  = '11';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+@Annotation
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'ValidRoles';
+        node-link = {
+          node-link-id = 'd2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Constraint';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 1;
+        node-label = 'ValidRoles';
+        node-link = {
+          node-link-id = 'd2/d3f/class_app_1_1_validator_1_1_constraints_1_1_valid_roles';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+      node = {
+        node-id    = 2;
+        node-label = 'Constraint';
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'd7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator';
+  cp-name   = 'App::Validator::Constraints::ValidRolesValidator';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'd8/d8c/class_symfony_1_1_component_1_1_validator_1_1_constraint_validator';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'd7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator_1a19da66d7ebf5f508cbdad3a2f255f107';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'validate';
+      sec-mem-param = {
+        sec-mem-param-declname = '$value';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Constraint
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = '$constraint';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Validator/Constraints/ValidRolesValidator.php';
+      sec-mem-desc-line = '14';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = 'db/d87/_basic_enum_8php_1a573bb600b466b4ac8fe33911e458f86c';
+        sec-mem-ref-line = '18';
+        sec-mem-ref-name = 'BasicEnum::getConstants';
+    };
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Validator/Constraints/ValidRolesValidator.php';
+  cp-fileline  = '13';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+@Annotation
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'ConstraintValidator';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'ValidRolesValidator';
+        node-link = {
+          node-link-id = 'd7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 2;
+        node-label = 'ConstraintValidator';
+      }; /* node */
+      node = {
+        node-id    = 1;
+        node-label = 'ValidRolesValidator';
+        node-link = {
+          node-link-id = 'd7/d57/class_app_1_1_validator_1_1_constraints_1_1_valid_roles_validator';
+        };
+        node-child = {
+          child-id = '2';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+file = {
+  file-id   = 'd1/d55/bootstrap_8php';
+  file-name = 'bootstrap.php';
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd1/d55/bootstrap_8php_1af82907ffd29945f58c1703adcc1c5031';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+if(is_array($env=@include dirname(__DIR__).'/.env.local.php')) elseif(!class_exists(Dotenv::class))
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'else';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+{
+    
+    (new Dotenv(false))->loadEnv(dirname(__DIR__).'/.env')
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/config/bootstrap.php';
+      var-mem-desc-line = '15';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd1/d55/bootstrap_8php_1a34db4a7de22e97210c79b5e59cb8e5b0';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = '$_SERVER';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= $_ENV
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/config/bootstrap.php';
+      var-mem-desc-line = '20';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd1/d55/bootstrap_8php_1a29246f1020c32c942ff74b154b7e2204';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = '$_SERVER';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= $_ENV['APP_ENV'] = ($_SERVER['APP_ENV'] ?? $_ENV['APP_ENV'] ?? null) ?: 'dev'
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/config/bootstrap.php';
+      var-mem-desc-line = '21';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd1/d55/bootstrap_8php_1a4313cd20e24edf712de3a52463e8522d';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = '$_SERVER';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= $_SERVER['APP_DEBUG'] ?? $_ENV['APP_DEBUG'] ?? 'prod' !== $_SERVER['APP_ENV']
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/config/bootstrap.php';
+      var-mem-desc-line = '22';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd1/d55/bootstrap_8php_1a4313cd20e24edf712de3a52463e8522d';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = '$_SERVER';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= $_ENV['APP_DEBUG'] = (int) $_SERVER['APP_DEBUG'] || filter_var($_SERVER['APP_DEBUG'], FILTER_VALIDATE_BOOLEAN) ? '1' : '0'
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/config/bootstrap.php';
+      var-mem-desc-line = '23';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/config/bootstrap.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'dc/d4a/bundles_8php';
+  file-name = 'bundles.php';
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'dc/d4a/bundles_8php_1a22333891ecf6ec3e343b2a7c0de5f253';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'return';
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/config/bundles.php';
+      var-mem-desc-line = '3';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/config/bundles.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'de/d20/index_8php';
+  file-name = 'index.php';
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'de/d20/index_8php_1a9bf422b41de5ae675f0816fe2bb56154';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+if($_SERVER['APP_DEBUG']) if($trustedProxies=$_SERVER['TRUSTED_PROXIES'] ?? $_ENV['TRUSTED_PROXIES'] ?? false) if($trustedHosts=$_SERVER['TRUSTED_HOSTS'] ?? $_ENV['TRUSTED_HOSTS'] ?? false)
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = '$kernel';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= new Kernel($_SERVER['APP_ENV'], (bool) $_SERVER['APP_DEBUG'])
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/public/index.php';
+      var-mem-desc-line = '23';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'de/d20/index_8php_1abb35c8495a232b510389fa6d7b15d38a';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = '$request';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= Request::createFromGlobals()
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/public/index.php';
+      var-mem-desc-line = '24';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referenceby = {
+        var-mem-ref-id = 'd4/da1/_user_auth_controller_8php_1a48ca544e8b3f9ff0573ec2a2b55129ac';
+        var-mem-ref-line = '30';
+        var-mem-ref-name = 'UserAuthController::register';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'de/d20/index_8php_1af4b6fb1bbc77ccc05f10da3b16935b99';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = '$response';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= $kernel->handle($request)
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/public/index.php';
+      var-mem-desc-line = '25';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/public/index.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd4/da1/_user_auth_controller_8php';
+  file-name = 'UserAuthController.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Controller/UserAuthController.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd5/d11/_users_controller_8php';
+  file-name = 'UsersController.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Controller/UsersController.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd8/dce/_created_at_life_cycle_callback_trait_8php';
+  file-name = 'CreatedAtLifeCycleCallbackTrait.php';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks_1af00445d724d37585eb60504575c6f6c4';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'updateCreatedAt';
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/LifeCycleCallbacks/CreatedAtLifeCycleCallbackTrait.php';
+      func-mem-desc-line = '19';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@ORM\PrePersist
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'd8/dce/_created_at_life_cycle_callback_trait_8php_1a2b386d6d0a66d69274ec07f4902dd900';
+        func-mem-ref-line = '29';
+        func-mem-ref-name = 'App\Entity\LifeCycleCallbacks::getCreatedAt';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks_1a2b386d6d0a66d69274ec07f4902dd900';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'getCreatedAt';
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/LifeCycleCallbacks/CreatedAtLifeCycleCallbackTrait.php';
+      func-mem-desc-line = '29';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return \DateTime
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceby = {
+        func-mem-ref-id = 'd8/dce/_created_at_life_cycle_callback_trait_8php_1af00445d724d37585eb60504575c6f6c4';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'App\Entity\LifeCycleCallbacks::updateCreatedAt';
+    };
+    }; /* func-member */
+    };
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks_1adc62da6cfe1064e3c6733ed9f162754e';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+trait
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'CreatedAtLifeCycleCallbackTrait';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+{
+    
+    private $createdAt
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/LifeCycleCallbacks/CreatedAtLifeCycleCallbackTrait.php';
+      var-mem-desc-line = '5';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/LifeCycleCallbacks/CreatedAtLifeCycleCallbackTrait.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'de/d6a/_updated_at_life_cycle_callback_trait_8php';
+  file-name = 'UpdatedAtLifeCycleCallbackTrait.php';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks_1a4c705c0f9b5c8f747a715940ee197293';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'updatedTimestamps';
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/LifeCycleCallbacks/UpdatedAtLifeCycleCallbackTrait.php';
+      func-mem-desc-line = '19';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@ORM\PreUpdate
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'de/d6a/_updated_at_life_cycle_callback_trait_8php_1ae5d02a32ae53c5af99a02a55f666bb7e';
+        func-mem-ref-line = '32';
+        func-mem-ref-name = 'App\Entity\LifeCycleCallbacks::setUpdatedAt';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks_1aea6550a1dad7e4125ad123477dbbc392';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'getUpdatedAt';
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/LifeCycleCallbacks/UpdatedAtLifeCycleCallbackTrait.php';
+      func-mem-desc-line = '27';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return \DateTime
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks_1ae5d02a32ae53c5af99a02a55f666bb7e';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'setUpdatedAt';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+\DateTime
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '$updatedAt';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/LifeCycleCallbacks/UpdatedAtLifeCycleCallbackTrait.php';
+      func-mem-desc-line = '32';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceby = {
+        func-mem-ref-id = 'de/d6a/_updated_at_life_cycle_callback_trait_8php_1a4c705c0f9b5c8f747a715940ee197293';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'App\Entity\LifeCycleCallbacks::updatedTimestamps';
+    };
+    }; /* func-member */
+    };
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd6/d95/namespace_app_1_1_entity_1_1_life_cycle_callbacks_1a057bdc1b3f04afa0ab4ab52a973997aa';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+trait
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'UpdatedAtLifeCycleCallbackTrait';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+{
+    
+    private $updatedAt
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/LifeCycleCallbacks/UpdatedAtLifeCycleCallbackTrait.php';
+      var-mem-desc-line = '5';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/LifeCycleCallbacks/UpdatedAtLifeCycleCallbackTrait.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'dc/db5/_product_8php';
+  file-name = 'Product.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Product.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd1/d0c/_deleted_at_trait_8php';
+  file-name = 'DeletedAtTrait.php';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd2/d0b/namespace_app_1_1_entity_1_1_traits_1a0ee5bfa57a5385baa93bc7c2ba3cbb09';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'getDeletedAt';
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/DeletedAtTrait.php';
+      func-mem-desc-line = '19';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return \DateTime
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd2/d0b/namespace_app_1_1_entity_1_1_traits_1acba88d47ee0906f3d19deae554e8ca31';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'setDeletedAt';
+      func-mem-param = {
+        func-mem-param-declname = '$deletedAt';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/DeletedAtTrait.php';
+      func-mem-desc-line = '27';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param \DateTime $deletedAt
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd2/d0b/namespace_app_1_1_entity_1_1_traits_1a744700970e1ca790b37409809c097f37';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+trait
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'DeletedAtTrait';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+{
+
+    
+    private $deletedAt
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/DeletedAtTrait.php';
+      var-mem-desc-line = '5';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/DeletedAtTrait.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd7/dd5/_id_trait_8php';
+  file-name = 'IdTrait.php';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd2/d0b/namespace_app_1_1_entity_1_1_traits_1a4c48cf9cbab3f5be7c7cc83da7e03f3c';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'getId';
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/IdTrait.php';
+      func-mem-desc-line = '17';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd2/d0b/namespace_app_1_1_entity_1_1_traits_1ab61876a6bd66112c777c0556812a8cb4';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+trait
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'IdTrait';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+{
+
+    
+    private $id
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/IdTrait.php';
+      var-mem-desc-line = '5';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/IdTrait.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd1/dea/_title_trait_8php';
+  file-name = 'TitleTrait.php';
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd2/d0b/namespace_app_1_1_entity_1_1_traits_1ae5f17fed2df53235568612c834a08e14';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+trait
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'TitleTrait';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+{
+
+    
+    public $title
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/TitleTrait.php';
+      var-mem-desc-line = '5';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/TitleTrait.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'df/d3f/_user_trait_8php';
+  file-name = 'UserTrait.php';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd2/d0b/namespace_app_1_1_entity_1_1_traits_1a9cf8807d042f91fea88bda37037fdedd';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'getMember';
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/UserTrait.php';
+      func-mem-desc-line = '23';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@return Member
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'd2/d0b/namespace_app_1_1_entity_1_1_traits_1ad22b810d4b9567880d9877337d0f1d72';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'setMember';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Member
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = '$member';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/UserTrait.php';
+      func-mem-desc-line = '31';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+@param Member $member
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'd2/d0b/namespace_app_1_1_entity_1_1_traits_1a89c85f32816a86ce70e3617cf39813a7';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+trait
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'UserTrait';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+{
+
+    
+    private $member
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/UserTrait.php';
+      var-mem-desc-line = '7';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Traits/UserTrait.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'da/d68/_users_8php';
+  file-name = 'Users.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Entity/Users.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'db/d87/_basic_enum_8php';
+  file-name = 'BasicEnum.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/BasicEnum.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd7/d2e/_discount_type_enum_8php';
+  file-name = 'DiscountTypeEnum.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/DiscountTypeEnum.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd2/d8a/_user_role_enum_8php';
+  file-name = 'UserRoleEnum.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Enums/UserRoleEnum.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'dc/deb/_kernel_8php';
+  file-name = 'Kernel.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Kernel.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'dc/db8/_product_repository_8php';
+  file-name = 'ProductRepository.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Repository/ProductRepository.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd4/d4c/_users_repository_8php';
+  file-name = 'UsersRepository.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Repository/UsersRepository.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd9/d39/_valid_roles_8php';
+  file-name = 'ValidRoles.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Validator/Constraints/ValidRoles.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd4/d48/_valid_roles_validator_8php';
+  file-name = 'ValidRolesValidator.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/src/Validator/Constraints/ValidRolesValidator.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd1/dcf/_acceptance_tester_8php';
+  file-name = 'AcceptanceTester.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/AcceptanceTester.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd5/db3/_api_tester_8php';
+  file-name = 'ApiTester.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/ApiTester.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd7/dc7/_functional_tester_8php';
+  file-name = 'FunctionalTester.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/FunctionalTester.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'dd/deb/_acceptance_8php';
+  file-name = 'Acceptance.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/Helper/Acceptance.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'de/dfc/_api_8php';
+  file-name = 'Api.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/Helper/Api.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'db/df7/_functional_8php';
+  file-name = 'Functional.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/Helper/Functional.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd1/d69/_unit_8php';
+  file-name = 'Unit.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/Helper/Unit.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'db/d7b/_unit_tester_8php';
+  file-name = 'UnitTester.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/_support/UnitTester.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'de/d11/_auth_cest_8php';
+  file-name = 'AuthCest.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/AuthCest.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'd1/d67/_create_user_cest_8php';
+  file-name = 'CreateUserCest.php';
+  file-full-name  = 'C:/Users/Mahbub/Desktop/symfony developer/withCodeceptionUnitTesting/EcomTest-master/tests/api/CreateUserCest.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
